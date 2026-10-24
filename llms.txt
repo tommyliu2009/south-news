@@ -4,11 +4,23 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-10-24（每日自動更新）
+- 更新：2026-10-25（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-24 因颱風延期！「花蓮韓流原聲演唱會」終登場厲旭、孝琳等頂級卡司齊聚 連兩天震撼開唱：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=232870
+- 2026-10-24 富岡漁港航道受阻 臺東縣府協調客輪改港疏運、接駁及民生物資運補：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150245
+- 2026-10-24 2026南島咖啡節10月24至25日開喝 跳島逛市集、品味太平洋左岸咖啡：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150244
+- 2026-10-24 台南購物節消費登錄破25億元 黃偉哲抽出首波幸運得主：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843432
+- 2026-10-24 「2026書寫高雄出版獎助計畫」第二期入選名單公布：https://khcc.kcg.gov.tw/rwd_home02.aspx?ID=$5101&IDK=2&EXEC=D&DATA=77113&AP=$5101_HISTORY-0^$5101_PN-1
+- 2026-10-24 台9線402k+600辦理災害修復工程，現場實施交通管制通行：https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=150243
+- 2026-10-24 慢行、安心、森呼吸 中山一路升級打造高雄城市客廳新走廊：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=3FF17C9369031378
+- 2026-10-24 大海開吃首站彌陀港虱目魚文化節熱鬧登場 陳其邁大讚澎湃海味、力推彌陀宜居悠閒魅力：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=0D78110055566402
+- 2026-10-24 臺東縣海端鄉台20線150K+900(向陽路段) 路樹倒塌已排除，雙向道路恢復正常通行：https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=150240
+- 2026-10-24 台東縣府公告自24日10時起解除山區、河川溪流水域及海岸漁港管制區：https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=150239
+- 2026-10-24 115年光復節連假，截至10月24日上午11時止高屏及臺東省道路況情形：https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=150241
+- 2026-10-24 環島科普列車抵臺東！18校320位師生玩出科學力：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&s=150235
 - 2026-10-23 防災資訊專區-薔琵颱風-防災消息：https://www.kcg.gov.tw/Champi/DisasterNews_Content.aspx?n=1507986767D1A6B3&id=2848f7d3-24e3-48c1-bc96-acf0a1d402d9
 - 2026-10-23 薔琵颱風外圍環流影響高雄 林欽榮副市長視察水利及污水工程督導防颱整備：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=C519BF7E00D6364A
 - 2026-10-23 原訂 10/23（五）上午09:00，中西區南美里活動中心舉辦之高齡換照講習，因颱風來襲，為維護長輩安全，本次講習取消辦理！：https://web.tainan.gov.tw/tnwcdo/News_Content.aspx?n=19944&s=8843340
@@ -22,18 +34,6 @@
 - 2026-10-23 秋颱薔琵迫近，如遇災害損失，記得先拍照存證再申請租稅減免：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=C40009B36ACA91DB
 - 2026-10-23 本府辦理「身心障礙者福利服務需求評估電訪」通知：https://www.kinmen.gov.tw/News_Content.aspx?n=1BC6B0D9638A6EE2&sms=A2C62D68901B977C&s=E0159C317EECC186&Create=1
 - 2026-10-23 高雄市第5屆里長選舉橋頭區候選人姓名號次抽籤因應115年10月23日(五)薔琵颱風停班停課：https://ctc.kcg.gov.tw/News_Content.aspx?n=5E1A6118D07ED8E3&sms=007514C9914402CD&s=8D94E3FAFA5E00D8
-- 2026-10-23 未來生活搶先體驗！ 臺南市政府邀請您走進沙崙，探索五大互動體驗：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8842693
-- 2026-10-23 114年度玉井區沙田里牛稠坑農路改善工程：https://www.tainan.gov.tw/News_Content2.aspx?n=4964&s=8843160
-- 2026-10-23 區公所-中西區-因颱風來襲停止上班影響，里長候選人號次抽籤改訂於115年10月27日上午9時30分開始進行：https://web.tainan.gov.tw/tnwcdo/News_Content.aspx?n=19944&s=8843307
-- 2026-10-23 金門港料羅港區112年3月23日貨物吞吐量噸位：https://harbor.kinmen.gov.tw/News_Content.aspx?n=73F8B4370A1AA324&sms=A2C62D68901B977C&s=931E3279911984D0&Create=1
-- 2026-10-23 黃偉哲感謝民間捐助535萬元特教助理經費 攜手打造友善融合教育環境：https://info.tainan.gov.tw/News_Content.aspx?n=25742&s=8843196
-- 2026-10-23 返鄉團聚也顧健康！南市邀市民相揪「左流右新、護肺顧心」！：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8843331
-- 2026-10-23 從智慧照護到長照3.0！打造全齡健康城市 臺南健康嘉年華登場：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8843330
-- 2026-10-22 聖誕陶藝所開放報名啦！：https://kmcf.kinmen.gov.tw/News_Content.aspx?n=707EC4E5A7A891D8&sms=A2C62D68901B977C&s=937115582E386626
-- 2026-10-22 橋頭區公所防汛沙包開放領取：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=9F064A782E6A4D7A
-- 2026-10-22 仁武區公所防汛沙包開放領取：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4B08E109578D2D32
-- 2026-10-22 文化局及所屬藝文場館園區 10/23（週五）休館及節目異動公告：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=FE08A40DAB7FE9D1
-- 2026-10-22 防颱優先！「2026花蓮韓流原聲演唱會」縣府體恤追星心願，全力協調卡司延期相見：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=232847
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
