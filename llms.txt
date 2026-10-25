@@ -4,11 +4,19 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-10-25（每日自動更新）
+- 更新：2026-10-26（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-26 高雄市政府全球資訊網-中文版：https://www.kcg.gov.tw/Default.aspx/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=03FDC2514A6478DF
+- 2026-10-25 愛在高雄 幸福啟航！ 市民集團婚禮120對佳偶締結良緣 創歷年新高：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=03FDC2514A6478DF
+- 2026-10-25 青春引爆、榮耀登場！ 115年臺南市中小學田徑錦標賽 盛大開賽！：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8842878
+- 2026-10-25 臺東慢食節「夜食餐桌」10/25、26於新生廣場 展現臺東人的夜間餐桌記憶：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150253
+- 2026-10-25 感謝清潔隊員守護臺東 饒慶鈴致贈千元隊員節禮金向夥伴致謝：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150252
+- 2026-10-25 咖啡紅了・東山盛開！臺南東山咖啡節登場 邀民眾走進產地：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843441
+- 2026-10-25 【軌跡 餘溫】致敬這座城市曾有過的平行線 台南古蹟車站鐵道體驗活動即日起展開：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8842529
+- 2026-10-25 第二波得獎名單出爐！恭喜幸運得主！🎁：https://etravel.matsu.gov.tw/news/a30d1546-c4c2-48f0-a0c4-29a0af97fecb
 - 2026-10-24 因颱風延期！「花蓮韓流原聲演唱會」終登場厲旭、孝琳等頂級卡司齊聚 連兩天震撼開唱：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=232870
 - 2026-10-24 富岡漁港航道受阻 臺東縣府協調客輪改港疏運、接駁及民生物資運補：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150245
 - 2026-10-24 2026南島咖啡節10月24至25日開喝 跳島逛市集、品味太平洋左岸咖啡：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150244
@@ -26,14 +34,6 @@
 - 2026-10-23 原訂 10/23（五）上午09:00，中西區南美里活動中心舉辦之高齡換照講習，因颱風來襲，為維護長輩安全，本次講習取消辦理！：https://web.tainan.gov.tw/tnwcdo/News_Content.aspx?n=19944&s=8843340
 - 2026-10-23 永安區公所沙包借用：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=4B779DC34621B256
 - 2026-10-23 公告本縣115年度「都市計畫私有公共設施保留地與公有非公用土地交換作業」交換優先順位結果。：https://www.kinmen.gov.tw/News_Content.aspx?n=1BC6B0D9638A6EE2&sms=A2C62D68901B977C&s=42F127652DF7C616
-- 2026-10-23 防颱超前部署！林欽榮副市長視察鳳山綠園道路樹加固作業 強化城市防颱韌性：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=716A6C4B3EB67381
-- 2026-10-23 防災實力看得見！臺南市114年度防災校園評選7校獲獎、1校長獲肯定：https://www.tainan.gov.tw/News_Content.aspx?n=16907&s=8843373
-- 2026-10-23 大新國小通學步道全新啟用 守護學童安心上學路：https://www.tainan.gov.tw/News_Content.aspx?n=16907&s=8843371
-- 2026-10-23 消防局啟動防颱整備 通報各單位部署救災能量：https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=8F33CC04A321765A
-- 2026-10-23 鹽埕區防災宣導及沙包借用：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=1859AAAAEFB34239
-- 2026-10-23 秋颱薔琵迫近，如遇災害損失，記得先拍照存證再申請租稅減免：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=C40009B36ACA91DB
-- 2026-10-23 本府辦理「身心障礙者福利服務需求評估電訪」通知：https://www.kinmen.gov.tw/News_Content.aspx?n=1BC6B0D9638A6EE2&sms=A2C62D68901B977C&s=E0159C317EECC186&Create=1
-- 2026-10-23 高雄市第5屆里長選舉橋頭區候選人姓名號次抽籤因應115年10月23日(五)薔琵颱風停班停課：https://ctc.kcg.gov.tw/News_Content.aspx?n=5E1A6118D07ED8E3&sms=007514C9914402CD&s=8D94E3FAFA5E00D8
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
