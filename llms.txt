@@ -4,36 +4,36 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-10-27（每日自動更新）
+- 更新：2026-10-28（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-10-27 公告申購「金門縣111年端午節配售酒」新住民第二次複查申請合格名冊：https://kmfinance.kinmen.gov.tw/News_Content.aspx?n=BDD135FAB8258C24&s=A64EA67451BFBE8F&sms=A2C62D68901B977C&Create=1
-- 2026-10-26 高雄市政府全球資訊網-中文版：https://www.kcg.gov.tw/Default.aspx/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=03FDC2514A6478DF
-- 2026-10-26 114年10月8日新版酒類及食品化驗申請單一份，供有檢驗酒品需求之民眾及業者參考：https://kmfinance.kinmen.gov.tw/News_Content.aspx?n=D7C9D033220B5B4F&s=7036376FA9793468&sms=A2C62D68901B977C&Create=1
-- 2026-10-26 出席2026高雄文藝獎頒獎典禮 陳其邁：致敬城市靈魂 藝術與創作讓高雄更加偉大：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=DF57532DE14C9FED
-- 2026-10-26 公告申購「金門縣111年中秋節配售酒」因新冠疫情影響戶籍遷出之旅外鄉親，自戶籍重新遷入本縣後，申請恢復配售酒資格合格名冊：https://kmfinance.kinmen.gov.tw/News_Content.aspx?n=BDD135FAB8258C24&s=C0C0B40B31C91B9D&sms=A2C62D68901B977C&Create=1
-- 2026-10-26 自來水管線新、舊管連接作業馬亨亨大道至勝利街及其周遭巷道10月27日至11月13日實施間歇性暫停供水施工：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150262
-- 2026-10-26 青春就這Young！臺東縣青少年福利服務中心啟用 打造音樂.舞蹈青春基地：https://www.taitung.gov.tw/News_Content.aspx?n=14600&sms=12652&s=150261
-- 2026-10-26 115年光復節連假，截至10月26日下午3時止高屏及臺東省道路況正常：https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=150263
-- 2026-10-26 全國第一再創全國唯一！臺南市府積極爭取 臺南第2家UCC 11月1日啟動：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8843453
-- 2026-10-26 南市再增一例登革熱境外移入病例，黃偉哲呼籲市民返鄉或出國旅遊請加強防蚊措施，返國有症狀即刻就醫，居家環境落實「巡、倒、清、刷」，阻絕病媒蚊孳生！：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8843454
-- 2026-10-26 台南車站舊軌道體驗今落幕 黃偉哲分享東山椪柑、盼新站開啟城市新篇章：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843452
-- 2026-10-26 家庭教育攜手學生輔導 服務量能再升級 雙中心聯合辦公室動土：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8843451
-- 2026-10-26 115年光復節連假，截至10月26日上午10時止高屏及臺東省道路況正常：https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=150258
-- 2026-10-26 2026第17屆臺南市巨人盃全國少棒錦標賽圓滿落幕 年輕小將揮棒追夢留下難忘回憶：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8843449
-- 2026-10-26 府城六合境馬公廟獲宮廟博物館認證 黃偉哲肯定傳承傳統工藝與信仰文化：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843448
-- 2026-10-26 台南市家庭教育與學生輔導聯合辦公室動土 黃偉哲盼整合資源完善支持網絡：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843447
-- 2026-10-26 薔琵颱風逼近！黃偉哲市長主持第二次工作會報 民政局長李芳林督導強風警戒區防颱整備：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843381
-- 2026-10-26 臺南大光文健站榮獲全國優等! 文化融入長照 打造原民長者幸福安老家園：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843396
-- 2026-10-26 2026第四屆南島文化共識開放空間會議 OST ｜路怎麼走？下個４年｜：https://culture.taitung.gov.tw/activity/2026%E7%AC%AC%E5%9B%9B%E5%B1%86%E5%8D%97%E5%B3%B6%E6%96%87%E5%8C%96%E5%85%B1%E8%AD%98%E9%96%8B%E6%94%BE%E7%A9%BA%E9%96%93%E6%9C%83%E8%AD%B0-ost-%EF%BD%9C%E8%B7%AF%E6%80%8E%E9%BA%BC%E8%B5%B0%EF%BC%9F
-- 2026-10-26 縣府現勘瓊安路道路改善工程 陳福海：確保道路品質 讓建設貼近地方需求：https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&s=EA1911828B13B1CD&sms=BF7D6D478B935644&Create=1
-- 2026-10-26 臺南市政府客家事務委員會-筆尖上的神韻！ 「百媚千嬌」2026悠遊畫會人物寫生創作成果展精彩登場：https://web.tainan.gov.tw/hakka/News_Content.aspx?n=26813&s=8843426
-- 2026-10-25 愛在高雄 幸福啟航！ 市民集團婚禮120對佳偶締結良緣 創歷年新高：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=03FDC2514A6478DF
-- 2026-10-25 青春引爆、榮耀登場！ 115年臺南市中小學田徑錦標賽 盛大開賽！：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8842878
-- 2026-10-25 臺東慢食節「夜食餐桌」10/25、26於新生廣場 展現臺東人的夜間餐桌記憶：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150253
-- 2026-10-25 感謝清潔隊員守護臺東 饒慶鈴致贈千元隊員節禮金向夥伴致謝：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150252
+- 2026-10-27 筆尖上的神韻！ 「百媚千嬌」2026悠遊畫會人物寫生創作成果展 精彩登場：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843427
+- 2026-10-27 林隆璇、陳俊豪師生驚喜現身台南車站四手聯彈 黃偉哲: 兼顧交通秩序打造音樂之都：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843754
+- 2026-10-27 「遞嬗生活」22日進駐南市府民治市政中心試營運！：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8843759
+- 2026-10-27 115年營業用車輛下期牌照稅繳納日即將到期，請儘速繳納！：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=655FCCF4A7C049D3
+- 2026-10-27 關山鎮台9線319K+500~320K+100辦理路面修復工程施工，實施交通管制：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150288
+- 2026-10-27 青葉部落文化健康站災後整修工程：https://www.pthg.gov.tw/News_Content.aspx?n=A773ACB48CA2E5C3&s=0AC8EB40E1252E44
+- 2026-10-27 公私協力培育永續世代！花蓮5校齊聚經驗交流 展示環境教育豐碩成果：https://www.hl.gov.tw/News_Content.aspx?n=32725&s=232989
+- 2026-10-27 屏東縣內埔鄉黎明社區、萬巒鄉赤山社區環境改善工程：https://www.pthg.gov.tw/News_Content.aspx?n=A773ACB48CA2E5C3&s=C560766B358938FE
+- 2026-10-27 深化揭弊保護制度 新法施行細則東區說明會花蓮登場：https://www.hl.gov.tw/News_Content.aspx?n=32725&s=232984
+- 2026-10-27 強化廉政風險防制 水利局召開廉政會報暨安全維護會報：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843751
+- 2026-10-27 臺南勇奪2026年西太平洋健康城市國際獎項，與市民共享榮耀：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8843750
+- 2026-10-27 南市新增首例境外移入瘧疾病例，請民眾前往瘧疾流行區可先至旅遊醫學門診諮詢，做好防蚊避被叮咬！：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8843744
+- 2026-10-27 從畫室走進城市，「微光顯影」看見精神康復者生命中的光。：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8843743
+- 2026-10-27 台南首創布可星球平台逾17萬人參與 黃偉哲盼持續提升學生閱讀力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843739
+- 2026-10-27 深化美食交流 台灣國際美食創新交流協會拜會黃偉哲：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843730
+- 2026-10-27 台南健康城市及全齡照顧成果獲肯定 黃偉哲期勉打造世代共融宜居城市：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843738
+- 2026-10-27 轉知訊息:內政部國土管理署「116年300億元中央擴大租金補貼專案計畫租金補貼受理申請公告」1份：https://ctc.kcg.gov.tw/News_Content.aspx?n=5E1A6118D07ED8E3&sms=007514C9914402CD&s=279FA95D8113BEAC
+- 2026-10-27 一盞燭光照亮回憶 華山台東2站7週年溫暖孤老心：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150285
+- 2026-10-27 臺東縣政府社會處保護服務科約聘社會工作督導2名：https://personnel.taitung.gov.tw/News_Content.aspx?n=13998&sms=13069&s=150282
+- 2026-10-27 臺東縣政府社會處保護服務科約聘社會工作員(師)2名：https://personnel.taitung.gov.tw/News_Content.aspx?n=13998&sms=13069&s=150284
+- 2026-10-27 颱風吹倒樹木擋山路 初鹿警攜手地方齊心清障：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150281
+- 2026-10-27 婦人失聯多日疑受困 南王警深入雜物堆尋獲 警消民力合力搶救：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150279
+- 2026-10-27 候選人號次抽籤平和順利 關山警守護選舉安全、反賄選護民主：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150276
+- 2026-10-27 台南世界餐飲藝術挑戰賽581人報名創新高 黃偉哲盼美食接軌國際：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843677
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
