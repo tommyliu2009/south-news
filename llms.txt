@@ -4,36 +4,36 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-10-29（每日自動更新）
+- 更新：2026-10-30（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-10-28 臺北市稅捐稽徵處舉 辦「115年度娛樂消費e起來租稅好禮抽回家」宣導活動：https://www.kinmen.gov.tw/News_Content.aspx?n=DA8E453757095F53&sms=A2C62D68901B977C&s=122569FD2D9760B6
-- 2026-10-28 [決標公告]113至115年度永康垃圾資源回收(焚化)廠營運階段回饋金-協興里鋪設道路柏油及排水溝整修工程：https://web.tainan.gov.tw/sinhua/News_Content.aspx?n=46148&sms=27270&s=8843830
-- 2026-10-28 出席「大寮社會住宅第一期新建統包工程啟用暨揭牌典禮」 陳其邁：到站即到家整合日照公托打造生活新核心：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=4D8D6516DE407D5B
-- 2026-10-28 富岡港航道障礙物全數清除 工作團隊積極應變 日夜搶修 10月29日恢復客船航行：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150316
-- 2026-10-28 風雨同舟情更暖-馬蘭榮家懷德堂茶香敘溫情 齊沾百歲人瑞福氣：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150318
-- 2026-10-28 臺東農改場115年「原鄉力動 永續共好」&家政70週年慶祝活動 歡迎蒞臨參加：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150317
-- 2026-10-28 新北市政府檢送新店五城花園公墓附設納骨塔地下一樓骨灰櫃位3,939個及牌位660個啟用案，本府依殯葬管理條例第20條規定辦理公告，自115年10月27日（星期二）起生效，請查照。：https://www.kinmen.gov.tw/News_Content.aspx?n=B641F587CB6336A3&sms=4FEFD09995C4BB81&s=CAB643AD2D1382F8
-- 2026-10-28 縱谷鹿野線完成碳足跡查證！ 結合國旅補助 搭好行、慢遊臺東實踐低碳永續：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150304
-- 2026-10-28 金曲卡司齊聚！韋禮安、蔡健雅、彭佳慧、徐佳瑩將參與2027台東跨年：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150315
-- 2026-10-28 南瀛國際民俗藝術節30週年圓滿落幕 20國團隊共襄盛舉吸引15萬人次：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843445
-- 2026-10-28 花蓮縣政府社會處婦幼科徵花蓮市社福中心 社工助理(第3次公告)：https://www.hl.gov.tw/News_Content.aspx?n=32726&sms=25833&s=232929
-- 2026-10-28 金門縣政府所屬機關首長異動名冊(1151101生效)：https://www.kinmen.gov.tw/News_Content.aspx?n=1BC6B0D9638A6EE2&sms=A2C62D68901B977C&s=B5ED680813EB6BC6
-- 2026-10-28 田寮月世界熱氣球體驗 俯瞰荒漠山城景色壯觀 ◆高雄進行式：https://www.kcg.gov.tw/News_Video_Content.aspx?n=68AF3B64ECE864A9&sms=E6CE6ED9A99DB123&s=FAACEE6DA9B92F13
-- 2026-10-28 安心萌芽 花蓮婦幼服務再升級 縣長徐榛蔚打造安心育兒環境 婦幼支持升級計畫說明會：https://www.hl.gov.tw/News_Content.aspx?n=32725&s=233070
-- 2026-10-28 自115年11月1日至116年2月28日止，原18路、18A、18B、25路公車及學生專車將改道行駛，詳見公告事項：https://www.kinmen.gov.tw/News_Content.aspx?n=1BC6B0D9638A6EE2&sms=A2C62D68901B977C&s=27FDD83EE8FCB4C4
-- 2026-10-28 AI智慧醫療再升級！北榮臺東分院洗腎照護自主創新，守護鄉親健康：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150309
-- 2026-10-28 「蜂耀關山」展現蜂產業實力！「蜂之饗宴」童富榮勇奪全國龍眼蜂蜜評鑑特等獎：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150311
-- 2026-10-28 高雄市仁武區成功路，於115年10月31日至11月1日進行路面改善工程，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=2A09F4339827372A
-- 2026-10-28 新竹縣政府稅務局舉辦「租稅FUN學不打烊」數位學習活動：https://www.kinmen.gov.tw/News_Content.aspx?n=DA8E453757095F53&sms=A2C62D68901B977C&s=D2DA97812813E4AC
-- 2026-10-28 高市府推動市場全齡創業四年補助逾3,000萬元助攤商創新轉型2026高雄市場創業補助正式開放申請最高補助30萬：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=BE158A95361279BD
-- 2026-10-28 高雄屋頂太陽光電推動成果亮眼 三項關鍵指標榮登全國第一：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=9412371D0DB8AB22
-- 2026-10-28 高雄市鳳山區南進三街、南榮路45巷、保泰路270巷，於115年10月29、30日進行路面改善工程，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=4A5B4CB7DB0E0779
-- 2026-10-28 高雄市鳳山區同明街、南福街，於115年10月30、31日進行路面改善工程，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=CA9B7CEC1A8ADAD1
-- 2026-10-28 高雄「大寮社宅」10/28揭牌 多元社福設施同步啟用：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=9C13C7FD2391C9F9
-- 2026-10-28 鳳林國小新建工程動土 陳其邁：象徵大林蒲遷村邁入實質推動階段 落實先建後遷承諾：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=9B428328219C1888
+- 2026-10-29 臺東縣政府將於11月5日舉辦2026臺東縣推動家戶屋頂設置太陽光電相關政策與補助宣導說明會：https://rett.taitung.gov.tw/the-taitung-county-government-will-hold-a-briefing-session-on-november-5th-to-promote/
+- 2026-10-29 臺南市後備指揮部強化官兵心理韌性 黃偉哲籲重視心理健康、善用支持資源：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844230
+- 2026-10-29 浯江輪渡有限公司公告—即日起，於小三通臨櫃購票者，非本人或陪同搭乘者，禁止使用刷卡進行購票作業：https://www.kinmen.gov.tw/News_Content.aspx?n=1BC6B0D9638A6EE2&s=617C78AA3C79013A&sms=A2C62D68901B977C&Create=1
+- 2026-10-29 「遞嬗生活」10/30南市府民治市政中心隆重開幕！：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8844227
+- 2026-10-29 金門縣115年度殯葬設施暨殯葬服務業評鑑結果：https://kccad.kinmen.gov.tw/News_Content.aspx?n=2D5D02E27D3C5F9B&sms=A2C62D68901B977C&s=79E750A070B9CA81
+- 2026-10-29 臺東4親子館11月推出35場免費活動 從創意手作到多元文化陪伴親子共玩共學：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150346
+- 2026-10-29 用五感走進花蓮農村！農再成果展互動體驗吸引親子探索在地風土15個農村社區特色齊聚感官探索、趣味手作與最美角落票選獲好評：https://www.hl.gov.tw/News_Content.aspx?n=32725&s=233187
+- 2026-10-29 守護營業場所安全 永安分隊嚴查瓦斯串接防範氣爆隱患：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=0FE227133B947FD8
+- 2026-10-29 高雄市小港區高坪27街650巷、高坪27街486巷及前鎮區明鳳六街、瑞春街69巷、忠誠路、興仁路151巷、衙東街76巷、鎮中路東向車道，於115年10月29日至31日進行路面改善工程，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=627DA4CB2D7CD7A8
+- 2026-10-29 環保局轉知115年9月份飲用水水質檢驗結果：https://hdao.kcg.gov.tw/News_Content.aspx?n=5415B45F83F58063&sms=6DBF452AEE6822B5&s=F75542A8D407CAAA
+- 2026-10-29 花蓮縣115學年度學生音樂比賽即將登場以樂會友展現學習成果 用音符奏響青春樂章：https://www.hl.gov.tw/News_Content.aspx?n=32725&s=233088
+- 2026-10-29 「波麗士」前進金峰鄉嘉蘭部落 大武警結合防災演練 全方位宣導守護族人安全：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150357
+- 2026-10-29 打造全國最好身障者福利在花蓮 縣府明年將添購15台復康巴士：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=233186
+- 2026-10-29 高雄市大寮區鳳林一路184巷27號、林園區王公一路(下磘溝巷口至林家路一段58巷口)、林園區鳳林路二段12巷(鳳林路二段12巷至鳳林路二段12巷16之1號)於115年11月4、5日進行路面改善工程，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=BD94442050FD39DB
+- 2026-10-29 高雄市鳳山區鎮南街，於115年11月2日進行路面改善工程，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=88173E2AEADD79FA
+- 2026-10-29 高雄市美濃-杉林區月光山隧道，於11月4日晚間10時至隔日晨間6時進行隧道安全檢測作業，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=5F4E435CD0C4A9F7
+- 2026-10-29 讓建築與城市共好！高雄厝綠建築大獎展現永續新風貌：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=C283618647AA6261
+- 2026-10-29 國立彰化生活美學館辦理「打開地方未來式：百大文化基地交流分享 會議Ⅱ：https://culture.taitung.gov.tw/news/%E3%80%90%E8%BD%89%E7%9F%A5%E3%80%91%E5%9C%8B%E7%AB%8B%E5%BD%B0%E5%8C%96%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%AD%B8%E9%A4%A8%E8%BE%A6%E7%90%86%E3%80%8C%E6%89%93%E9%96%8B%E5%9C%B0%E6%96%B9%E6%9C%AA%E4%BE%86
+- 2026-10-29 台南機場直飛越南，慶賀同時宣導登革熱防治，黃偉哲市長呼籲開心出遊更要做好防蚊措施，健康好安心！：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8844188
+- 2026-10-29 迎世界男性健康日！臺南市衛推Men’s Talk系列活動，邀男性說出心裡話：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8844191
+- 2026-10-29 薔琵颱風過後齊心護海岸 秀姑巒溪Cepo’水環境巡守隊自主發起淨灘行動：https://www.hl.gov.tw/News_Content.aspx?n=32725&s=233178
+- 2026-10-29 11月2日第二階段開打！南市籲50至64歲民眾「左流右新」顧健康、賺健康幣：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8844185
+- 2026-10-29 【協助公告】內政部公告116年300億元中央擴大租金補貼專案計畫租金補貼受理申請，歡迎符合資格民眾踴躍申請。：https://youth.kcg.gov.tw/News_Content.aspx?n=9&s=13992&sms=10146
+- 2026-10-29 白河水庫保護區開發議題 南市府：違規依法裁處、持續追蹤改善守護水源環境：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844176
+- 2026-10-29 高雄 AI 燈塔計畫展現智慧治理成果 陳其邁：改善人民生活、提高行政效率：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=ED06C40F9919D56F
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
