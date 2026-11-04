@@ -4,36 +4,36 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-11-04（每日自動更新）
+- 更新：2026-11-05（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-05 竹田鄉公所-最新消息-【轉知】屏東縣政府檢送116年300億元中央擴大租金補貼專案計畫租金補貼受理申請公告1份。：https://www.pthg.gov.tw/townjtt/News_Content.aspx?n=09E3DC243E8C0D19&s=3790FEDE46AF2861
 - 2026-11-04 函轉內政部指定財團法人消防安全中心基金會為辦理防火避難綜合檢討評定書之專業機構：https://publicwork.taitung.gov.tw/News_Content.aspx?n=14296&s=150457
-- 2026-11-03 【協助公告】修正「雲林縣西螺鎮鄰長為民服務費自治條例」公布令、公告、修正條文、修正總說明及修正條文對照表：https://ttca.taitung.gov.tw/News_Content.aspx?n=13639&s=150445
-- 2026-11-03 暖警深夜海灘急尋 大武警及時尋獲情緒低落民眾：https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=150055
-- 2026-11-03 金管會規劃修正投信投顧法推動TISA租稅優惠：https://finnovationhub.kcg.gov.tw/News_Content.aspx?n=27DDD0E251E634E6&sms=0EE7288A9C3CF451&s=09BE41EF87FFCD18
-- 2026-11-03 泰武鄉公所-最新消息-領有身心障礙者生活補助費民眾提出辦理專戶事宜一案：https://www.pthg.gov.tw/TownTto/News_Content.aspx?n=9ED7AC233C48068A&sms=9A0DBFA4FF4BDF50&s=C694376A4FE0A079
-- 2026-11-03 (115)屏63線0K+000-7K+780擇要道路改善工程：https://www.pthg.gov.tw/News_Content.aspx?n=B68F14A72352F01B&s=F40ABC9D3F0484F2
-- 2026-11-03 崁頂鄉公所-最新消息-原住民族委員會修正「116年原住民族家庭語言競賽實施計畫」：https://www.pthg.gov.tw/townkto/News_Content.aspx?n=FF5357F5BDA5E114&sms=E54FF8470F4AF507&s=751C345F4524BEDF
-- 2026-11-03 行政暨研考處-決標公告-115年度兒童遊戲權國際交流規劃服務案：https://www.pthg.gov.tw/planra/News_Content.aspx?n=4607120D29F65FBC&sms=662F82A7CEF597C3&s=A37E1022441C9EC7
-- 2026-11-03 活動/招標訊息-轉知-經濟部辦理115年度再生能源公民電廠示範獎勵辦法徵件說明會(10/28)：https://pge.pthg.gov.tw/News_Content.aspx?n=D4EA13583A7579EC&s=688D3B46D1D3703C
-- 2026-11-03 農業部漁業署訂定「東港鹽埔漁港鹽埔泊區卸魚碼頭指定區域禁止從事卸魚以外行為」公告。：https://www.pthg.gov.tw/pt-mfam/News_Content.aspx?n=6D5C643DFE059C95&sms=F759891361FDEEAD&s=1419B28391213321
-- 2026-11-03 【農業資訊】公告本所辦理「115年度屏東縣獅子鄉公所對轄內農民團體評比」結果：https://www.pthg.gov.tw/townszt/News_Content.aspx?n=824388DE01926AA6&s=15EB91A80C1C47DE
-- 2026-11-03 行政暨研考處-決標公告-屏東縣動物之家野生動物救傷區空間優化與設施增建工程委託設計監造服務：https://www.pthg.gov.tw/planra/News_Content.aspx?n=4607120D29F65FBC&sms=662F82A7CEF597C3&s=2B4F850A35986F71
-- 2026-11-03 縣府自編預算開辦綠島文健站！饒慶鈴：臺東完成16鄉鎮市文健站服務布建：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150452
-- 2026-11-03 臺東推動「臺灣職安卡」教育訓練 2場次200人次參訓 強化營造職場安全防護：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150435
-- 2026-11-03 公開展覽「變更高速鐵路屏東車站特定區計畫（配合主要計畫第一階段）（科技產業園區（擴區）部分）（部分產業專用區變更為綠地用地）細部計畫案」計畫書、圖，請周知。：https://www.pthg.gov.tw/planeab/News_Content.aspx?n=9F3D64DC575DFEEC&sms=C07A4E0160AC69CE&s=23FC36C13B42A46E
-- 2026-11-03 高樹鄉公所-訊息公告-🏡💰 115年地價稅開徵囉！記得準時繳納唷！✨：https://www.pthg.gov.tw/towngto/News_Content.aspx?n=9DB3244D31F05135&s=B2206A99AB500CCE
-- 2026-11-03 「後壁湖漁港第一漁船上架場(含曳船道)暨周邊土地委託經營管理」招標案公告：https://www.pthg.gov.tw/townhengchuen/News_Content.aspx?n=4E8D9C43EAEFB71D&s=9CDBFAAFC934B19F
-- 2026-11-03 115 年社區及人民團體活動計畫申請及核銷注意事項：https://www.pthg.gov.tw/townhengchuen/News_Content.aspx?n=4E8D9C43EAEFB71D&s=93BD6B945866CBE1
-- 2026-11-03 永續東大．微笑啟航！臺東大學YouBike校園站點啟用 學生提議促成30輛單車進駐 產官學醫攜手推動綠色交通：https://www.taitung.gov.tw/News_Content.aspx?n=14600&s=150438
-- 2026-11-03 南市加強市售蔬果農藥殘留監測 呼籲選購來源清楚農產品、落實清洗把關：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845020
-- 2026-11-03 國際青少年網球盛事再臨臺南 南瀛盃匯聚15國好手展實力：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845021
-- 2026-11-03 臺南之光閃耀名古屋亞運 黃偉哲市長接見選手及教練團肯定卓越表現：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845023
-- 2026-11-03 臺南市健康社區表揚，卓越社區齊聚，共享光榮時刻！：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845022
-- 2026-11-03 行政暨研考處-決標公告-115年度機車安全教育推廣計畫：https://www.pthg.gov.tw/planra/News_Content.aspx?n=4607120D29F65FBC&sms=662F82A7CEF597C3&s=E2585471F6A3AB56
-- 2026-11-03 台南再生能源推動獲肯定 獲經濟部2026傑出多元綠能獎：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844999
+- 2026-11-04 新竹市建華段96地號等縣有非公用土地及新竹市有房屋第1次標售公告：https://finance.taitung.gov.tw/News_Content.aspx?n=13600&s=150477
+- 2026-11-04 我的狗（貓）要辦理絕育手術，請問如何申請補助？：https://www.kinmen.gov.tw/News_Content.aspx?n=9411CE56D765FB40&s=E69A55BBC00B3C27&sms=B675900615BB79BF&Create=1
+- 2026-11-04 仁武八涳橋舊橋拆除防汛成功 日夜趕工新橋階段性通車：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=1B278DF81CFBE870
+- 2026-11-04 屏東縣竹田鄉公有零售市場新建工程：https://www.pthg.gov.tw/News_Content.aspx?n=A773ACB48CA2E5C3&sms=FC5BD9B3D7E30CBD&s=8717F9EE9229D15C
+- 2026-11-04 【公告受理115年度本縣老宅延壽計畫補助申請】受理期間115/11/4-116/2/2：https://www.kinmen.gov.tw/News_Content.aspx?n=1BC6B0D9638A6EE2&sms=A2C62D68901B977C&s=99292C12BA1F357F&Create=1
+- 2026-11-04 高雄市鳳山區經武路(光遠路至花園街)(南下慢車道)、中正路(光復路至協和路)於115年11月7、8日進行路面改善工程，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=2F90D6A32934F138
+- 2026-11-04 塑膠食品容器具使用有撇步 南市衛生局籲業者落實管理、民眾安心使用：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845277
+- 2026-11-04 臺南重大投資穩步推進 黃偉哲主持投資會報掌握企業建廠進度：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845276
+- 2026-11-04 區公所-新化區-有關活體弓綁金目鱸之行為涉及違反動物保護法第6條規定，請各市場輔導業者轉型。：https://web.tainan.gov.tw/sinhua/News_Content.aspx?n=5932&s=8845268
+- 2026-11-04 2027年東京國際食品展-花蓮館 參展廠商報名暨評選方法說明：https://www.hl.gov.tw/News_Content.aspx?n=32724&sms=25831&s=233499
+- 2026-11-04 臺南產業數位轉型邁向新階段 市府串聯產業共創數位競爭力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845245
+- 2026-11-04 恭賀！本局廢棄物管理科科長林O勲榮獲115年行政院模範公務人員- 最新消息：https://ksepb.kcg.gov.tw/AuditAnnouncement/news?PageType=1&id=034a74af-144e-449e-b4d6-66ece72aa389
+- 2026-11-04 健康上網，生活不迷惘！黃偉哲市長呼籲健康休閒，遠離網路成癮。：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845236
+- 2026-11-04 提升國際接待力！花蓮縣府攜手觀光旅宿業 打造雙語友善環境：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=233485
+- 2026-11-04 不倒騎士抵台東 東馬團隊感動立志成為「不倒醫師」：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150480
+- 2026-11-04 本處115年度財物報廢品變賣公開委託估價，自公告日起至115年11月18日17時止，在辦公時間內以郵遞(以郵戳為憑)或親送方式向本處送達估價單，逾期者恕不受理，歡迎踴躍參加估價。依據：國有公用財產管理手冊第六十六點和各機關奉准報廢財產之變賣及估價作業：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845220
+- 2026-11-04 2027台南好young首波卡司亮相 黃偉哲邀全民共享耶誕跨年盛宴：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845223
+- 2026-11-04 「2026住宿臺南－好康三重送」第二次抽獎！壓軸大獎「住到飽」等110份好禮中獎名單出爐：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845224
+- 2026-11-04 115年第三次專技人員高考護理師考試11/8登場 首次在臺東設置行動化試場！：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150478
+- 2026-11-04 阿嬤跌落水溝受困 海端警即刻馳援助脫困、聯繫家屬暖心照料：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150479
+- 2026-11-04 臺東創新教育再綻光芒！ 紐倫堡國際發明展勇奪3金3特別獎 閃耀國際：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&s=150470
+- 2026-11-04 南市教育局推出中、英雙語國際教育遊學手冊 11條路線串聯在地學習與全球議題：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845202
+- 2026-11-04 「秋冬果香滿府城」在地小農齊聚展售優質椪柑、柳丁與特色農產加工品，邀您品味產地到餐桌的美好滋味：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845184
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
