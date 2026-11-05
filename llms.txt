@@ -4,36 +4,36 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-11-05（每日自動更新）
+- 更新：2026-11-06（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-11-05 竹田鄉公所-最新消息-【轉知】屏東縣政府檢送116年300億元中央擴大租金補貼專案計畫租金補貼受理申請公告1份。：https://www.pthg.gov.tw/townjtt/News_Content.aspx?n=09E3DC243E8C0D19&s=3790FEDE46AF2861
-- 2026-11-04 函轉內政部指定財團法人消防安全中心基金會為辦理防火避難綜合檢討評定書之專業機構：https://publicwork.taitung.gov.tw/News_Content.aspx?n=14296&s=150457
-- 2026-11-04 新竹市建華段96地號等縣有非公用土地及新竹市有房屋第1次標售公告：https://finance.taitung.gov.tw/News_Content.aspx?n=13600&s=150477
-- 2026-11-04 我的狗（貓）要辦理絕育手術，請問如何申請補助？：https://www.kinmen.gov.tw/News_Content.aspx?n=9411CE56D765FB40&s=E69A55BBC00B3C27&sms=B675900615BB79BF&Create=1
-- 2026-11-04 仁武八涳橋舊橋拆除防汛成功 日夜趕工新橋階段性通車：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=1B278DF81CFBE870
-- 2026-11-04 屏東縣竹田鄉公有零售市場新建工程：https://www.pthg.gov.tw/News_Content.aspx?n=A773ACB48CA2E5C3&sms=FC5BD9B3D7E30CBD&s=8717F9EE9229D15C
-- 2026-11-04 【公告受理115年度本縣老宅延壽計畫補助申請】受理期間115/11/4-116/2/2：https://www.kinmen.gov.tw/News_Content.aspx?n=1BC6B0D9638A6EE2&sms=A2C62D68901B977C&s=99292C12BA1F357F&Create=1
-- 2026-11-04 高雄市鳳山區經武路(光遠路至花園街)(南下慢車道)、中正路(光復路至協和路)於115年11月7、8日進行路面改善工程，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=2F90D6A32934F138
-- 2026-11-04 塑膠食品容器具使用有撇步 南市衛生局籲業者落實管理、民眾安心使用：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845277
-- 2026-11-04 臺南重大投資穩步推進 黃偉哲主持投資會報掌握企業建廠進度：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845276
-- 2026-11-04 區公所-新化區-有關活體弓綁金目鱸之行為涉及違反動物保護法第6條規定，請各市場輔導業者轉型。：https://web.tainan.gov.tw/sinhua/News_Content.aspx?n=5932&s=8845268
-- 2026-11-04 2027年東京國際食品展-花蓮館 參展廠商報名暨評選方法說明：https://www.hl.gov.tw/News_Content.aspx?n=32724&sms=25831&s=233499
-- 2026-11-04 臺南產業數位轉型邁向新階段 市府串聯產業共創數位競爭力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845245
-- 2026-11-04 恭賀！本局廢棄物管理科科長林O勲榮獲115年行政院模範公務人員- 最新消息：https://ksepb.kcg.gov.tw/AuditAnnouncement/news?PageType=1&id=034a74af-144e-449e-b4d6-66ece72aa389
-- 2026-11-04 健康上網，生活不迷惘！黃偉哲市長呼籲健康休閒，遠離網路成癮。：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845236
-- 2026-11-04 提升國際接待力！花蓮縣府攜手觀光旅宿業 打造雙語友善環境：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=233485
-- 2026-11-04 不倒騎士抵台東 東馬團隊感動立志成為「不倒醫師」：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150480
-- 2026-11-04 本處115年度財物報廢品變賣公開委託估價，自公告日起至115年11月18日17時止，在辦公時間內以郵遞(以郵戳為憑)或親送方式向本處送達估價單，逾期者恕不受理，歡迎踴躍參加估價。依據：國有公用財產管理手冊第六十六點和各機關奉准報廢財產之變賣及估價作業：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845220
-- 2026-11-04 2027台南好young首波卡司亮相 黃偉哲邀全民共享耶誕跨年盛宴：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845223
-- 2026-11-04 「2026住宿臺南－好康三重送」第二次抽獎！壓軸大獎「住到飽」等110份好禮中獎名單出爐：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845224
-- 2026-11-04 115年第三次專技人員高考護理師考試11/8登場 首次在臺東設置行動化試場！：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150478
-- 2026-11-04 阿嬤跌落水溝受困 海端警即刻馳援助脫困、聯繫家屬暖心照料：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150479
-- 2026-11-04 臺東創新教育再綻光芒！ 紐倫堡國際發明展勇奪3金3特別獎 閃耀國際：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&s=150470
-- 2026-11-04 南市教育局推出中、英雙語國際教育遊學手冊 11條路線串聯在地學習與全球議題：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845202
-- 2026-11-04 「秋冬果香滿府城」在地小農齊聚展售優質椪柑、柳丁與特色農產加工品，邀您品味產地到餐桌的美好滋味：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845184
+- 2026-11-05 黃偉哲受邀出席新光三越新天地寶可夢耶誕點燈 邀民眾遊台南、享美食、抽好禮：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845492
+- 2026-11-05 115年10月份高雄市物價變動概況：https://bas.kcg.gov.tw/News_Content.aspx?n=DFA2E6E21E2F56AC&sms=210F1CD2DBBB0267&s=36B1F52A61DDB848
+- 2026-11-05 勞工領袖大學菁英班帶領學員掌握科技脈動與智慧製造新知：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845493
+- 2026-11-05 【代發社會局新聞稿】兒少保護不是開案越少越好高市府：強化風險辨識、落實追蹤服務，才能真正接住孩子：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=27F19D5F51061A4B
+- 2026-11-05 繁花盛開迎新生 花蓮縣推出珍愛寶貝新生兒祝福禮2.0：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=233585
+- 2026-11-05 臺東縣政府行政處庶務科科員A030150職代1名：https://www.taitung.gov.tw/News_Content.aspx?n=13377&sms=12655&s=150506
+- 2026-11-05 臺南市南區樂齡學習數位示範體驗場域正式揭牌 開啟數位共融新生活：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845489
+- 2026-11-05 智匯臺南、算力領航！ 黃偉哲宣布AI服務引擎啟動， AMD捐贈算力設備助攻智慧市政與在地創新：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845462
+- 2026-11-05 臺南市長照專業服務成果發表會分享溫馨復能故事、見證長輩重拾自立：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845464
+- 2026-11-05 黃偉哲市長八年深耕社宅從無到有 臺南社宅量能突破1.2萬戶 市府攜手中央成效市民有感：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844853
+- 2026-11-05 黃偉哲任內締盟成果展現城市外交新格局 促成多元實質交流：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844847
+- 2026-11-05 地籍圖重測換狀免收費 多元申辦管道好便利：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844824
+- 2026-11-05 南市府攜手企業推廣正確洗手衛教 黃偉哲籲從小養成良好衛生習慣：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8844856
+- 2026-11-05 臺東榮服處生日祝福再升級 簡訊傳心意、關懷更即時：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150505
+- 2026-11-05 「東稅玩稅不設限」11/5熱鬧登場！玩遊戲學租稅、集積分換好康 最高6,000元即享券等你拿！：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150504
+- 2026-11-05 電氣因素火災頻傳！後勁分隊籲落實定期檢查臥室及客廳用電安全！：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=BB449D2D0A858DB7
+- 2026-11-05 搶攻全球無人載具非紅供應鏈商機 深化臺美合作，協助臺南廠商進軍歐美市場：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845286
+- 2026-11-05 花蓮縣政府社會處18名同仁考取社會工作師 專業人才培育再傳捷報 持續打造優質社工服務環境：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=233574
+- 2026-11-05 招標 - 116年度公務車租車(含駕駛、油料)(開口契約)：https://khcc.kcg.gov.tw/rwd_home02.aspx?ID=$M109&IDK=2&EXEC=D&DATA=77215&AP=$M109_HISTORY-0^$M109_PN-1
+- 2026-11-05 高市消防至那瑪夏民權國小舉辦消防體驗營宣導防災觀念：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=957AC8B46B987B93
+- 2026-11-05 招標 - 紅毛港文化園區海洋特色遊戲場設置案：https://khcc.kcg.gov.tw/rwd_home02.aspx?ID=$M109&IDK=2&EXEC=D&DATA=77214&AP=$M109_HISTORY-0^$M109_PN-1
+- 2026-11-05 賣東西也會被騙！成功分局副分局長上警廣 揭露臉書假買家詐騙陷阱：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150501
+- 2026-11-05 臺東警察分局處理轉運站前傷害案件相關說明：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150500
+- 2026-11-05 布農文化輕旅行，樂齡共遊趣-馬蘭榮家安養堂長輩走出戶外樂融融：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150496
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
