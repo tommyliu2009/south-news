@@ -4,11 +4,26 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-11-08（每日自動更新）
+- 更新：2026-11-09（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-08 金門縣115年度殯葬設施暨殯葬服務業評鑑結果：https://kccad.kinmen.gov.tw/News_Content.aspx?n=E5D02A826882318C&sms=A2C62D68901B977C&s=79E750A070B9CA81
+- 2026-11-08 檢送「屏東縣九如鄉納骨堂」第三棟二樓神主牌位核准啟用公告文1份，請惠予張貼公告周知，請查照。：https://kccad.kinmen.gov.tw/News_Content.aspx?n=B7491819210F6114&sms=4FEFD09995C4BB81&s=A52F23143087F7D8
+- 2026-11-08 🎉 【115年度臺灣原住民聯合豐年節慶活動 攤位名單出爐！好康、獎金大送出！】 🎉：https://kccad.kinmen.gov.tw/News_Content.aspx?n=E5D02A826882318C&sms=A2C62D68901B977C&s=38B51CD293DB46AB
+- 2026-11-08 南市表揚終身學習楷模 實踐「活到老學到老」打造樂活臺南：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845714
+- 2026-11-08 台東縣網球中心啟用！4面紅土球場 兼顧選手培訓與全民運動：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150541
+- 2026-11-08 稻浪間野餐.音樂相伴！400人齊聚關山共下食个福 體驗客家文化：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150544
+- 2026-11-08 臺東150家優良餐飲業者獲認證 饒慶鈴：打造安心美食觀光品牌：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150542
+- 2026-11-08 政策及業務宣導 - 高雄市立美術館1月辦理政策及業務宣導執行情形：https://khcc.kcg.gov.tw/rwd_home02.aspx?ID=$1703&IDK=2&EXEC=D&DATA=62030&AP=$1703_HISTORY-0^$1703_PN-13
+- 2026-11-08 「花藥盛市－南方診聊室」邀民眾抓一帖地方處方箋：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845704
+- 2026-11-08 稻香秋收在地好物齊聚「115年度後壁秋日豐收季行銷推廣活動」11月8日步穀農創館廣場熱鬧登場：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845705
+- 2026-11-08 中西區「非常機車」火損建物 工務局限期11/13進場清理 12月中旬前完成拆除：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845703
+- 2026-11-08 近千名跑者齊聚虎頭埤挑戰泳渡與168路跑 黃偉哲邀民眾體驗台南山林觀光魅力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845698
+- 2026-11-08 台南全民趣味運動嘉年華117隊齊聚新營 黃偉哲邀市民一起動起來：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845697
+- 2026-11-08 臺東之光！哈古雙喜臨門 首位獲國家工藝成就獎原民工藝家 文化部今頒人間國寶證書：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150538
+- 2026-11-08 轉知：臺南市政府115年10月19日「以自然為本：韌 性共築・城市共融」國際論壇：https://ttepb.taitung.gov.tw/News_Content.aspx?n=14756&s=149910
 - 2026-11-07 115年11月28日舉辦115年地方公職人員選舉及全國性公民投票：https://lujhu-house.kcg.gov.tw/News_Content.aspx?n=29A41EAE30EDBDA5&sms=2D1FDCF6675A4AEB&s=DD14A9F864D8738F
 - 2026-11-07 內政部國土管理署「116年300億元中央擴大租金補貼專案計畫租金補貼受理申請公告」：https://lujhu-dist.kcg.gov.tw/News_Content.aspx?n=893851A2C613C964&sms=9C64FF0CB464D41D&s=AD8F0190ABE834A3
 - 2026-11-07 出席2026打狗鳳邑文學獎頒獎 陳其邁：城市因文學而成就永恆：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=A80102817F7E50DF
@@ -19,21 +34,6 @@
 - 2026-11-07 從承諾走向實踐高市輔導中鋼推燃料電池減碳技術- 最新消息：https://ksepb.kcg.gov.tw/AuditAnnouncement/news?PageType=1&id=8ec22d90-66ef-45c2-ab0f-d6b81ff7c1f5
 - 2026-11-07 展現下營四寶特色！2026鵝豆桑豐收生活節 感受A贏產業魅力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845684
 - 2026-11-07 從餐桌到生活美學 龍崎采竹節11月7日登場：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845682
-- 2026-11-07 南市府主動訪查業者 穩定食用油供應 確保供貨順暢：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845683
-- 2026-11-07 一盆藏天地花果迎賓客 2026台灣花菓盆栽展隆重登場：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845681
-- 2026-11-07 白河水源保護區如有違反相關法令 臺南市府將依法開罰，情節嚴重者移送司法偵辦：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845677
-- 2026-11-07 臺南仁德二期再生水促參案招商說明會登場 每日3.3萬噸供水量能助攻沙崙產業發展：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845676
-- 2026-11-07 台南表揚績優志工及團隊 黃偉哲感謝長年無私奉獻：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845675
-- 2026-11-07 2026台南胡麻季熱鬧登場 黃偉哲邀民眾走訪產區品味在地胡麻香：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845672
-- 2026-11-07 文化局補助出版陳坑村史 陳朝福執筆留下家鄉珍貴記憶：https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=B0444128B784E634
-- 2026-11-07 【𝟮𝟬𝟮𝟲臺灣國際衝浪公開賽－滑板賽 𝙎𝙠𝙖𝙩𝙚 𝙅𝙖𝙢】：https://tour.taitung.gov.tw/zh-tw/diary/detail/1322
-- 2026-11-07 2026南方影展登場 黃偉哲支持新銳創作、深耕臺南影視文化：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845673
-- 2026-11-07 【代發高雄市政府財政局新聞稿】陳其邁堅守財政紀律今年減債突破200億任內累計減債455億期許城市發展與財政永續並進：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=2AA0D246A9255A30
-- 2026-11-07 黃偉哲出席慈濟高中19週年校慶運動會 肯定深耕人文教育培育學子：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845667
-- 2026-11-07 日月光投資南科臺南園區 黃偉哲：強化先進封裝產業聚落 帶動臺南半導體發展：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845668
-- 2026-11-07 都市公共空間與人本環境整合論壇 建築退縮空間貼近市民需求：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=DB79FF4C72BD4564
-- 2026-11-07 健康企業跨界力挺台東救護！捐贈高階訓練模型與掌上電擊器等打造堅韌救護防線：https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=150524
-- 2026-11-07 檢送臺北市殯葬管理處115年度「北投6號行義公園整建工程」範圍內有（無）主墳墓遷葬公告1份，請惠予張貼公告周知，請查照。：https://gad.kinmen.gov.tw/News_Content.aspx?n=D33AE14239C2E2C7&sms=4FEFD09995C4BB81&s=7173AE151C4BBBAD
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
