@@ -4,36 +4,36 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-11-10（每日自動更新）
+- 更新：2026-11-11（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-09 國慶連假期間垃圾正常收運- 訊息公告：https://ksemd.ksepb.kcg.gov.tw/Announcement/emdannouncement?SiteDirectory=emd&PageType=1&id=c1ecc3bd-db8d-4054-9581-850896cf03f3
-- 2026-11-09 金門縣金沙鎮公所檢送本所辦理「蟠龍山風景區整體空間規劃」案，所在地金沙鎮官澳測段137-1地號(共13筆，詳地號表)有(無)主墳起掘公告，請惠予公告周知，請查照。：https://www.kinmen.gov.tw/News_Content.aspx?n=B641F587CB6336A3&sms=4FEFD09995C4BB81&s=5107CFD94966E8A5
-- 2026-11-09 黃偉哲出席南紡聖誕點燈邀市民感受節慶氛圍 13公尺TOMICA主題樹亮相：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845939
-- 2026-11-09 【𝟮𝟬𝟮𝟲臺灣國際衝浪公開賽－開幕儀式🌊✨】：https://tour.taitung.gov.tw/zh-tw/diary/detail/1341
-- 2026-11-09 【𝟮𝟬𝟮𝟲臺灣國際衝浪公開賽－國內賽正式登場！】：https://tour.taitung.gov.tw/zh-tw/diary/detail/1336
-- 2026-11-09 【𝟮𝟬𝟮𝟲臺灣國際衝浪公開賽－行前通知𝗡𝗢𝗧𝗜𝗖𝗘】：https://tour.taitung.gov.tw/zh-tw/diary/detail/1337
-- 2026-11-09 愛心跨越縣市！臺中創業夫妻捐贈復康巴士 臺東無障礙交通注入暖心力量：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150554
-- 2026-11-09 2027高雄冬日遊樂園巨型盲盒揭曉小小兵明年降臨愛河灣陳其邁：愛河灣已成國際級IP的水上星光大道：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=C1CBF1C97CAEAF71
-- 2026-11-09 守護助人者安全！花蓮縣府採購社工外勤包 強化第一線執業防護：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=233759
-- 2026-11-09 臺東縣政府地政處地籍暨資訊科科員A660200職代1名：https://www.taitung.gov.tw/News_Content.aspx?n=13377&sms=12655&s=150568
-- 2026-11-09 「高雄市廚餘生質能(厭氧消化)廠BTO案」第1次變更或補充公告 及 申請人請求釋疑意見回復情形。：https://ksepb.kcg.gov.tw/Announcement/meeting?PageType=1&id=7d591de9-289d-483e-8d14-ce14205e003e
-- 2026-11-09 客家歌手羅文裕唱進臺南新市國小 「客流感」用音樂點燃校園熱情：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845886
-- 2026-11-09 臺南三大計畫聯合成果展 串聯創業育成、企業輔導與創新研發：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845885
-- 2026-11-09 12月3日為我國「檳榔防制日」，提醒大眾留意新型態檳榔危害：https://labor.kcg.gov.tw/News_Content.aspx?n=303E612DC95002EB&sms=5D5071CD4F7DE237&s=4139D78CA33915EB
-- 2026-11-09 陪同內政部長劉世芳視察新台17線開闢工程 陳其邁：感謝中央全力支持 預計2年後全線通車：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=DA6CB1A519259B71
-- 2026-11-09 黃偉哲訪馬修嚴選 看好南科沙崙商機、助在地品牌拓展國際市場：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845877
-- 2026-11-09 AI棒球科技免費體驗！ 臺南「全民選秀站」校外教學、團體參訪歡迎預約：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845864
-- 2026-11-09 80歲失智婦人外出失聯 高雄警消地毯式搜索成功尋獲：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=DD0C1BA847354ECA
-- 2026-11-09 辦妥商業登記不等於隨處可開業！營業場所依法應符合都市計畫土地分區管制：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845828
-- 2026-11-09 高雄消防升級再創佳績！《遠見》2026六都「公共安全與消防」指標勇奪第一智慧科技、救災裝備、緊急救護及全民防災全面升級，打造更安全宜居的幸福城市：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=97725367895181AA
-- 2026-11-09 雙11優惠開賣！四大特色體驗遊程最低11元限量開搶 走進農漁村體驗臺南在地生活：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845825
-- 2026-11-09 跟著「我的餐盤」 吃出均衡營養：https://phb.kinmen.gov.tw/News_Content.aspx?n=87FB8DD4C759A8B5&s=9EAD404D737A4C8B&sms=A2C62D68901B977C&Create=1
-- 2026-11-09 台南「區區有充電站」計畫，第11批充電站上線啟用！：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845811
-- 2026-11-09 臺南購物節好康連發！ 水電費抽小確幸 雙11逛百貨抽智慧電車：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845804
-- 2026-11-09 台南防災教育館、消防史料館整建啟用 黃偉哲盼科技體驗深化防災教育：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8845803
+- 2026-11-10 107年度區政統計年報：https://fsdo.kcg.gov.tw/News_Content.aspx?n=A22859B204186560&sms=D85CBB59B8EAEB61&s=FBE9ABC5432695FB
+- 2026-11-10 雲林縣西螺鎮公墓公園化墓園暨納骨塔使用管理自治條例相關修正資料公告：https://ttca.taitung.gov.tw/News_Content.aspx?n=13639&s=150603
+- 2026-11-10 雲林縣「西螺鎮公所籃厝示範公墓納骨堂增設骨灰骸存放設施」啟用公告：https://ttca.taitung.gov.tw/News_Content.aspx?n=13639&s=150602
+- 2026-11-10 2026花蓮縣原住民族產業永續發展計畫 啟動徵選10家潛力業者，每家15萬元產業獎勵金：https://ab.hl.gov.tw/News_Content.aspx?n=43048&s=233223
+- 2026-11-10 📃公告-為配合文化部推動上元節民俗保存與傳承，請本轄各貴宗教團體辦理相關活動，並踴躍申請補助。：https://web.tainan.gov.tw/sinhua/News_Content.aspx?n=5932&s=8846152
+- 2026-11-10 縣府嚴正駁斥「花蓮縣府做候選人民調」不實謠言：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=233839
+- 2026-11-10 臺南學子國際競賽展實力！機器人奪第3、數理科學摘2金4銀2銅 市長黃偉哲肯定優異表現：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846192
+- 2026-11-10 台南1.5萬席路邊車格智慧化 好停APP 11/16升級上線：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846190
+- 2026-11-10 花蓮縣116年度總預算全數通過 大幅擴大全齡福利、加強家庭與弱勢支持：https://www.hl.gov.tw/News_Content.aspx?n=32725&s=233832
+- 2026-11-10 台南輔導未登記工廠合法化 黃偉哲盼業者加速改善：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846187
+- 2026-11-10 臺南館亮相2026太空國際年會 產學研齊聚展現太空產業發展能量：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846176
+- 2026-11-10 臺南市政府地政局召開115年度廉政會報，落實清廉勤政，各項便民措施滿意度高達9成以上：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846153
+- 2026-11-10 區公所-中西區-林百貨95週年「府城摩登大遊行」12月5日登場，黃偉哲邀全民感受台南全糖魅力：https://web.tainan.gov.tw/tnwcdo/News_Content.aspx?n=19945&sms=18798&s=8846121
+- 2026-11-10 左營機20公辦都更案動土 舊水肥廠瀝青廠土地蛻變全齡共居新社區：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=0C27D8007005A3C9
+- 2026-11-10 臺南之光！陳忞昕勇奪達卡青年奧運桌球女單金牌：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846110
+- 2026-11-10 林百貨95週年「府城摩登大遊行」12月5日登場 黃偉哲邀全民感受台南全糖魅力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846099
+- 2026-11-10 公私協力再創雙贏！馬蘭榮家與新興醫療社團法人順利完成慎修養護中心OT案優先定約簽署：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150599
+- 2026-11-10 臺南市持續辦理衛星變異點監測作業守護國土永續並強化土地利用：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846093
+- 2026-11-10 2026高雄聖誕生活節11/13浪漫登場！ 五週末「耶誕小鎮」接力開逛9天「聖誕黃金周」串聯商圈引爆歲末消費熱潮：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=AE5347D8D2F41A00
+- 2026-11-10 花蓮縣辦理116年度「補助團體辦理原住民族及離島地區部落社區健康營造計畫」：https://www.hl.gov.tw/News_Content.aspx?n=32860&s=233812
+- 2026-11-10 所長茶葉蛋成功打入新加坡市場 黃偉哲：讓更多台南好物名揚世界：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846042
+- 2026-11-10 「2026高雄聖誕生活節」11月13日中央公園浪漫揭幕陳其邁：歡迎全國民眾來高雄感受最閃耀溫暖的聖誕時光：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=75F86BD50B980C8C
+- 2026-11-10 區公所-中西區-臺南監理站115年11月份上班日辦理「70歲以上高齡換照講習」相關資訊：https://web.tainan.gov.tw/tnwcdo/News_Content.aspx?n=19944&sms=18797&s=8846020
+- 2026-11-10 區公所-中西區-115年地方公職人員選舉及全國性公民投票宣導：https://web.tainan.gov.tw/tnwcdo/News_Content.aspx?n=19944&sms=18797&s=8846034
+- 2026-11-10 黃偉哲視察安定下洲子抽水站二期工程 感謝中央挹注逾2.9億提升防洪效能：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846032
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
