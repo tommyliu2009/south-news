@@ -4,38 +4,39 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-11-12（每日自動更新）
+- 更新：2026-11-13（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-13 【免費領競選小物？當心掉入詐騙陷阱！】：https://kccad.kinmen.gov.tw/News_Content.aspx?n=D603943EED4C995F&sms=A2C62D68901B977C&s=B164374A212976F1
+- 2026-11-13 金門縣115年10月份各里（村）人口數排行榜、現住人口數按性別及年齡分：https://kccad.kinmen.gov.tw/News_Content.aspx?n=E5D02A826882318C&sms=A2C62D68901B977C&s=5A76CFF25CC90F1C
+- 2026-11-13 金門縣115年10月份人口數統計表、人口異動表、人口圖表：https://kccad.kinmen.gov.tw/News_Content.aspx?n=E5D02A826882318C&sms=A2C62D68901B977C&s=72E3C66B77ED20A9
+- 2026-11-13 函轉「文化部語言友善環境及創作應用與推廣補助作業要點」申請自115年8月17日起至同年10月16日止，請協助公告並鼓勵踴躍申請，請查照。：https://kccad.kinmen.gov.tw/News_Content.aspx?n=F527913B2CA7BFA5&sms=A2C62D68901B977C&s=E3C6871395A4005A
 - 2026-11-12 倒轉星球(地球)｜城市典藏：https://shop.culture.tainan.gov.tw/shop/products/106
-- 2026-11-11 115年地價稅開徵廣播宣導16日舉辦 叩應搶答稅務局送好禮：https://www.kinmen.gov.tw/News_Content.aspx?n=DA8E453757095F53&sms=A2C62D68901B977C&s=CCE167F54EBE6D0C
-- 2026-11-11 社會處-補助民間團體公告專區-【公告】「115年提升獨居老人關懷意識多元創新宣導計畫」：https://www.pthg.gov.tw/planjdp/News_Content.aspx?n=4427A9E120F52BFB&sms=100536A971E5E0ED&s=31E8E3E1A396E2C4
-- 2026-11-11 花蓮縣政府以原民文化串聯豐濱山海觀光 2026 Makotaay 藝術季中秋滿月開幕：https://ab.hl.gov.tw/News_Content.aspx?n=43048&s=231606
-- 2026-11-11 「金門工商休閒園區之興建、營運、移轉（BOT）計畫案」114年度營運績效評鑑結果出爐：https://www.kinmen.gov.tw/News_Content.aspx?n=1BC6B0D9638A6EE2&sms=A2C62D68901B977C&s=EC1C94000166337A
-- 2026-11-11 花蓮縣推動社工專業人才培育與留任支持 116年擴大照顧公私部門社工 打造友善專業服務環境：https://www.hl.gov.tw/News_Content.aspx?n=32725&s=233904
-- 2026-11-11 區公所-中西區-臺南市政府第5屆青年事務委員會青年代表委員招募報名期限延長相關資訊：https://web.tainan.gov.tw/tnwcdo/News_Content.aspx?n=19944&s=8846359
-- 2026-11-11 打造公立森林小學新典範！臺東永安國小推動「無痕山林」與高山遠征 孕育大自然的孩子：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150627
-- 2026-11-11 資本額5千萬是否合理？：https://kmfinance.kinmen.gov.tw/News_Content.aspx?n=C18FCB4173538C92&s=671FEAF1ADDD13DE&sms=B675900615BB79BF&Create=1
-- 2026-11-11 金門限定開班｜堆高機操作人員訓練招生中！：https://www.kinmen.gov.tw/News_Content.aspx?n=1BC6B0D9638A6EE2&sms=A2C62D68901B977C&s=7F8A1C4086DAEEFA
-- 2026-11-11 臺南市政府響應全國有機農業日 舉辦有機農業論壇暨有機農產品媒合會：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846487
-- 2026-11-11 結合日照、托育與警政 高市援中派出所啟用 陳其邁：逐步完善楠梓副都心生活機能：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=12E1208883A2F3D2
-- 2026-11-11 辦理「臺東縣東河鄉萬年段719-1地號」非都市土地交通用地廢止一案，徵求異議，詳如附件圖說，特此公告周知。：https://traffic.taitung.gov.tw/News_Content.aspx?n=16942&sms=14010&s=150115
-- 2026-11-11 創新驅動產業，實力點亮臺南！ 臺南市地方型SBIR推動計畫14家績優企業獲表揚 匯聚產業升級新能量：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846454
-- 2026-11-11 深耕基層田徑培育有成 永信國小打造全國接力金滿貫勁旅：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846446
-- 2026-11-11 臺南地政團隊勇奪四項中央獎項！許坤煌科長獲第31屆地政業務貢獻獎 智慧地政與專業服務再獲肯定：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846389
-- 2026-11-11 2026年高雄市國際身心障礙者日系列活動：https://kpd.kcg.gov.tw/News_Content.aspx?n=45292135BD21B98E&sms=D61F39652D32F044&s=670AD29020B21278
-- 2026-11-11 弘前新任市長谷川政人首訪台南 黃偉哲出席物產嘉年華深化雙城友誼：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846374
-- 2026-11-11 南市府與台糖聯手調節供需 黃偉哲：為市民把關確保食用油供貨無虞：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846350
-- 2026-11-11 台南四季辦桌12/13漁光島登場 品海景宴賞明華園、11/12限量開賣：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846340
-- 2026-11-11 臺南PowerTech科技創作賽熱鬧登場 逾300名學生限時打造機械獸 展現智慧科技力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846349
-- 2026-11-11 檔案及政府資訊應用：https://gad.kinmen.gov.tw/cp.aspx?n=6DA03987FE8556E2
-- 2026-11-11 台南公車路網重整後運量增五成 黃偉哲：今年再添61輛電動車，持續提升服務：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846263
-- 2026-11-11 活動資訊:「2026桃園市兒少代表培力團隊」：https://ttca.taitung.gov.tw/News_Content.aspx?n=15974&s=150607
-- 2026-11-11 感謝全聯慶祥基金會持續攜手公益 捐贈18萬元禮券助弱勢家庭歲末添暖：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846274
+- 2026-11-12 「2027臺南人權月展覽規劃執行及推廣計畫」 2026-11-12：https://culture.tainan.gov.tw/latestevent/Details?Parser=9,3,85,32,,,25533
+- 2026-11-12 「傳統民居楊宅」委外經營管理案 2026-11-12：https://culture.tainan.gov.tw/latestevent/Details?Parser=9,3,85,32,,,25535
+- 2026-11-12 岸內影視基地場景建設技術小組第三期 2026-11-12：https://culture.tainan.gov.tw/latestevent/Details?Parser=9,3,85,32,,,25536
+- 2026-11-12 環境部修正「土壤及地下水污染改善貸款信用保證實施要點」第二十三點，並自115年10月21日生效：https://kepb.kinmen.gov.tw/News_Content.aspx?n=AD685BA70CE9DD0C&sms=A2C62D68901B977C&s=03C5372FE993D679
+- 2026-11-12 非本市登革熱境外移入確診案足跡緊急防治範圍公告：https://health.kcg.gov.tw/News_Content.aspx?n=51623F92649C1BE2&sms=F9373F0CFE2E3F24&s=F6460E34494BC871
+- 2026-11-12 天冷心暖！高市消防大昌分隊攜手義消與里長 深入社區強化弱勢居家安全：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=870337CB24D6A18F
+- 2026-11-12 全國AI智創機器人競賽 臺東9校32名學生參加 勇奪20項獎項 展現科技教育扎根成果：https://ttdp.taitung.gov.tw/News_Content.aspx?n=13561&sms=12731&s=150632
+- 2026-11-12 新埤鄉公所-訊息公告-116年300億元中央擴大租金補貼專案計畫：https://www.pthg.gov.tw/Townsto/News_Content.aspx?n=237404BA298DD620&s=790098DB9B155B9C
+- 2026-11-12 【代發高雄市選舉委員會新聞稿】115年地方公職人員選舉高雄市選舉人人數及全國性公民投票案第22案投票權人人數初步統計：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=558FBC3B75C3E73F
+- 2026-11-12 白河頭前溪橋改建投入1.61億元 黃偉哲：軍民協力提升防洪與城市韌性：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846746
+- 2026-11-12 從智慧家電到銀髮經濟 聲寶集團深耕臺南投資逾66億元：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846672
+- 2026-11-12 台東慢旅兩年成績單出爐！ 串聯51家業者 永續旅遊帶動地方新商機 縣長頒紅榜感謝：https://www.taitung.gov.tw/News_Content.aspx?n=14600&sms=12652&s=150639
+- 2026-11-12 佳里第三聯合活動中心新建工程動土典禮 完善地方公共建設 打造優質里民活動空間：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846740
+- 2026-11-12 福爾摩沙遊艇酒店榮獲金擘獎優等 展現臺南促參成果：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846707
+- 2026-11-12 臺南購物節消費登錄突破40億元 黃偉哲推文化好禮專屬抽、11/29月月抽再加碼：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846713
+- 2026-11-12 南臺灣最大漫畫圖書館開館 陳其邁：文學創作自由是城市的永恆：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=18BE84DD531DD099
+- 2026-11-12 日本山形市長佐藤孝弘年年率市民團來訪 走訪景點大啖美食力挺台南觀光：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846702
+- 2026-11-12 115年度臺東家戶屋頂光電補助說明會吸引332人參與 補助申請受理至11月27日止：https://rett.taitung.gov.tw/information-session-on-rooftop-solar-subsidies-for-households-in-taitung-draws-332-attendees/
+- 2026-11-12 最新消息｜織・時臺東：https://festival.taitung.gov.tw/news
+- 2026-11-12 2026台南資訊月11/20大台南會展中心登場 黃偉哲盼AI應用融入生活：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846698
 
 ## 相關網站
+- 補助王：https://www.subsidyking.tw/
 - 標案王：https://www.bidking.tw/
 - 台灣政府補助新聞網：https://news.subsidyking.tw/
 - 中部新聞網：https://web12.subsidyking.tw/
