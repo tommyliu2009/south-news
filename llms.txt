@@ -4,36 +4,36 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-11-14（每日自動更新）
+- 更新：2026-11-15（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
 - 2026-11-14 新竹市稅務局舉辦「AI神機妙 算：你的專屬秘笈」租稅宣導活動：https://www.kinmen.gov.tw/News_Content.aspx?n=DA8E453757095F53&sms=A2C62D68901B977C&s=1C861D1F1B018D6B
-- 2026-11-13 【免費領競選小物？當心掉入詐騙陷阱！】：https://kccad.kinmen.gov.tw/News_Content.aspx?n=D603943EED4C995F&sms=A2C62D68901B977C&s=B164374A212976F1
-- 2026-11-13 金門縣115年10月份各里（村）人口數排行榜、現住人口數按性別及年齡分：https://kccad.kinmen.gov.tw/News_Content.aspx?n=E5D02A826882318C&sms=A2C62D68901B977C&s=5A76CFF25CC90F1C
-- 2026-11-13 金門縣115年10月份人口數統計表、人口異動表、人口圖表：https://kccad.kinmen.gov.tw/News_Content.aspx?n=E5D02A826882318C&sms=A2C62D68901B977C&s=72E3C66B77ED20A9
-- 2026-11-13 函轉「文化部語言友善環境及創作應用與推廣補助作業要點」申請自115年8月17日起至同年10月16日止，請協助公告並鼓勵踴躍申請，請查照。：https://kccad.kinmen.gov.tw/News_Content.aspx?n=F527913B2CA7BFA5&sms=A2C62D68901B977C&s=E3C6871395A4005A
-- 2026-11-13 松藝路人行天橋暨夢裡森林公園啟用 陳其邁：打造超級公園 落實城市綠肺永續共融環境：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=D1E624A2D88E57EF
-- 2026-11-13 走進森林、擁抱自然！鳥松夢裡森林公園11月13日正式啟用 打造高雄城市綠色新秘境：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=A1340EBAAFACA061
-- 2026-11-13 普發現金2萬元財源議會質詢受關注 縣府澄清網路傳言非事實：https://www.hl.gov.tw/News_Content.aspx?n=32725&s=234045
-- 2026-11-13 澄清湖天橋啟用 陳其邁：串聯公園綠地打造400公頃休憩網：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=7A6BDC9ED416BC83
-- 2026-11-13 臺南永續旅遊年度講座接軌歐盟新制 公私協力探索綠色新競爭力 助攻觀光產業永續轉型：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846936
-- 2026-11-13 玉宗股份有限公司捐贈救護車回饋社會，攜手小港分隊守護民眾生命安全：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=5CEFFDEC84080620
-- 2026-11-13 防火關懷不打烊 成功分隊夜間訪視守護弱勢族群：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=ACC510BE0C1B0D0B
-- 2026-11-13 【代發勞工局新聞稿】​沿著高雄動脈打造便捷的就業服務勞工局鳳山銀髮人才服務據點11/13揭牌營運：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=AFB09468F6D39B23
-- 2026-11-13 從陪伴刷牙開始，南市攜手機構守護長輩的日常：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846932
-- 2026-11-13 藥癮指定機構年度督導考核 落實藥癮治療品質把關：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846927
-- 2026-11-13 馬路好行！安平健康路段改善開工 預計116年8月完工：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846926
-- 2026-11-13 夜市食安不容輕忽 南市加強稽查並持續抽驗：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846925
-- 2026-11-13 引進民間資金、活化公有資產 臺南促參成果再獲中央金擘肯定：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846405
-- 2026-11-13 高雄市楠梓區德民路快車道，於115年11月18日至20日進行路面刨鋪改善工程，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=A18B85D920FA4BD0
-- 2026-11-13 【代發高雄市選委會新聞稿】進入競選活動期間 應遵守選罷法規定並當心AI假訊息：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=33A26EF720623567
-- 2026-11-13 從零起步到年銷破億！ 「雄挺利」力挺青創品牌「B’f美學進行式」 創業之光照亮青年設計夢想以行動回饋高雄時尚大賞：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=FD10704B87F2EC40
-- 2026-11-13 85大樓點亮港都迎BTS！海霸王百億投資打造五星級酒店高雄演唱會經濟持續發酵城市地標再現風華：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=FC80A101406B050A
-- 2026-11-13 116年申請展覽場展出作品及補助名單(第一類：本縣立案藝文團體)：https://cabkc.kinmen.gov.tw/information?uid=24&pid=7962
-- 2026-11-13 臺南數學課有新招！校長帶頭示範差異化教學 讓每個孩子都學得會：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846908
-- 2026-11-13 來亞大樓拆除分階段交維管制 守護行車安全：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846910
+- 2026-11-14 南市校際聯合反毒嘉年華閃耀登場 攜手遠百大跳「青春舞YOUNG」大聲向毒品Say No！：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846982
+- 2026-11-14 臺南購物節登錄突破42億元 黃偉哲攜手《豆腐媽媽》演員馬國畢、宮美樂直播逛西市場：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846981
+- 2026-11-14 公告本府社會處「115年中秋節配售酒」新住民第二次複查申請合格名冊：https://kmfinance.kinmen.gov.tw/News_Content.aspx?n=D7C9D033220B5B4F&s=CE58CD3CAF4EAF35&sms=A2C62D68901B977C&Create=1
+- 2026-11-14 高雄前進土耳其COP31聯合國氣候峰會 分享城市淨零治理經驗：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=386757E63AF69306
+- 2026-11-14 產官學攜手深耕公益 南區社造展俊逸慈善基金會捐贈20萬元支持弱勢醫療：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846980
+- 2026-11-14 高雄前進土耳其COP31聯合國氣候峰會分享城市淨零治理經驗- 最新消息：https://ksepb.kcg.gov.tw/AuditAnnouncement/news?PageType=1&id=46cb3bdb-ffbb-4759-aeeb-ac9a0fec7634
+- 2026-11-14 台南青年公共參與成果展南紡登場 黃偉哲肯定青年為城市發展注入更多力量：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846975
+- 2026-11-14 感謝有您攜手同行！臺南溪南家長會長感恩聯誼會登場 市長黃偉哲分享教育成果：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846974
+- 2026-11-14 台南公私立中小學家長會長聯誼會溪南場登場 黃偉哲盼深化親師合作：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846969
+- 2026-11-14 臺南市政府全球資訊網-Minutes of Tainan City Government’s 771st Municipal Administrative Meeting 10/20/2026：https://www.tainan.gov.tw/News_Content.aspx?n=1963&sms=17142&s=8843765
+- 2026-11-14 南藝飛揚・藝冠群芳 南市國中小傳藝比賽229隊同場競技 展現傳統藝術新活力：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846970
+- 2026-11-14 臺南後備軍人子女獎學金頒獎 黃偉哲勉勵勤學精進、感恩回饋：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846968
+- 2026-11-14 「愛。永遠都在」台南市長與安置兒少歲末團圓 披薩派對溫馨送愛：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846967
+- 2026-11-14 歸仁區全民運動中心首辦「長榮盃全齡匹克球錦標賽」今日盛大登場！百餘組球友熱烈會師揮拍競技：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846964
+- 2026-11-14 勞工局職訓成果展親子同歡手作體驗熱鬧登場 現場學員義賣作品超搶手：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846963
+- 2026-11-14 沙崙智慧科技走入生活！綠電樂活市集串聯多元科技體驗：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846965
+- 2026-11-14 黃偉哲出席2026台南胡麻季安定場 推廣在地農產與食農體驗：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846958
+- 2026-11-14 彩繪葫蘆黑琵【王丁乙】藝術展、串珠黑面琵鷺【宋惠珠】藝術展及黑琵油畫展覽七股遊客中心開幕展出：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846962
+- 2026-11-14 公開招標公告[標案案號]115082 [標案名稱]佳里區下營里南26線道蒐集水路箱涵後續改善工程：https://www.tainan.gov.tw/News_Content2.aspx?n=4960&s=8844170
+- 2026-11-14 安定胡麻季地政問答送好禮 新化地政分享「府城南籍圈」查房價：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846961
+- 2026-11-14 臺南蘭代學院攜手二代傳承 打造在地產業接班生態系、邁向高值化轉型：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846960
+- 2026-11-14 高市消防鼎金分隊成功搶救2名OHCA患者 康復後重返正常生活：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=1BA826972855C891
+- 2026-11-14 台南中小學傳統藝術比賽新營登場 黃偉哲盼展現傳統藝術新活力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846955
+- 2026-11-14 產業轉型結合TOD開發 高雄公辦都更6年引資2,800億 連4年助攻蟬聯全國招商王：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=43226DE9C80F29E7
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
