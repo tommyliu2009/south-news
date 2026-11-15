@@ -4,11 +4,24 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-11-15（每日自動更新）
+- 更新：2026-11-16（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-15 馬祖掐米香-蔥蒜蝦口味：https://etravel.matsu.gov.tw/trip/9b2b34dc-0937-4156-961a-515a94930043
+- 2026-11-15 屏東總圖 臺灣光復暨金門古寧頭大捷紀念日 連假 營運公告：https://www.cultural.pthg.gov.tw/library/News_Content.aspx?n=AF3B1C001CA6BAC5&s=466966228C43CFF3
+- 2026-11-15 高粱酒-一吻喉韻系列：https://etravel.matsu.gov.tw/trip/9b2b34e0-97b2-48a1-b0f0-709b17582c91
+- 2026-11-15 高雄17個扶輪社攜手捐贈救護裝備 充實第一線救護量能 守護市民生命安全：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=A1DF7DD1848DE657
+- 2026-11-15 「公益揭弊者保護法宣導」動畫影片：https://kmcf.kinmen.gov.tw/News_Content.aspx?n=E0B252891ADF5A49&sms=A2C62D68901B977C&s=8D0D15D8619DD5C6
+- 2026-11-15 緯創擴大投資臺南 129億加碼AI伺服器布局 南科沙崙雙引擎再添動能：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8847000
+- 2026-11-15 化解科技焦慮！南市數位學習家長宣講 打造親師共學支持網：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846998
+- 2026-11-15 安南區溪東里活動中心落成啟用 打造全齡共享幸福據點：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846995
+- 2026-11-15 115年9月份臺東縣政府核發建築物建造及拆除執照、使用執照、開工統計：https://publicwork.taitung.gov.tw/News_Content.aspx?n=14315&s=150019
+- 2026-11-15 永康最大特色遊具公園啟用 黃偉哲：打造全齡共享休憩新空間：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846991
+- 2026-11-15 夜奇鴨人氣延燒！ 11月20日好評加場花園夜市 扭蛋加碼50份重量級周邊好禮、送300張夜市抵用券：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846114
+- 2026-11-15 ZEPRO RUN全國半程馬拉松安平開跑 8千跑者齊聚台南享受海岸風光：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846984
+- 2026-11-15 Minutes of Tainan City Government’s 771st Municipal Administrative Meeting Mayor’s remarks 10/20/2026：https://www.tainan.gov.tw/News_Content.aspx?n=1962&s=8843766
 - 2026-11-14 新竹市稅務局舉辦「AI神機妙 算：你的專屬秘笈」租稅宣導活動：https://www.kinmen.gov.tw/News_Content.aspx?n=DA8E453757095F53&sms=A2C62D68901B977C&s=1C861D1F1B018D6B
 - 2026-11-14 南市校際聯合反毒嘉年華閃耀登場 攜手遠百大跳「青春舞YOUNG」大聲向毒品Say No！：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846982
 - 2026-11-14 臺南購物節登錄突破42億元 黃偉哲攜手《豆腐媽媽》演員馬國畢、宮美樂直播逛西市場：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846981
@@ -21,19 +34,6 @@
 - 2026-11-14 台南公私立中小學家長會長聯誼會溪南場登場 黃偉哲盼深化親師合作：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846969
 - 2026-11-14 臺南市政府全球資訊網-Minutes of Tainan City Government’s 771st Municipal Administrative Meeting 10/20/2026：https://www.tainan.gov.tw/News_Content.aspx?n=1963&sms=17142&s=8843765
 - 2026-11-14 南藝飛揚・藝冠群芳 南市國中小傳藝比賽229隊同場競技 展現傳統藝術新活力：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846970
-- 2026-11-14 臺南後備軍人子女獎學金頒獎 黃偉哲勉勵勤學精進、感恩回饋：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846968
-- 2026-11-14 「愛。永遠都在」台南市長與安置兒少歲末團圓 披薩派對溫馨送愛：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846967
-- 2026-11-14 歸仁區全民運動中心首辦「長榮盃全齡匹克球錦標賽」今日盛大登場！百餘組球友熱烈會師揮拍競技：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846964
-- 2026-11-14 勞工局職訓成果展親子同歡手作體驗熱鬧登場 現場學員義賣作品超搶手：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846963
-- 2026-11-14 沙崙智慧科技走入生活！綠電樂活市集串聯多元科技體驗：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846965
-- 2026-11-14 黃偉哲出席2026台南胡麻季安定場 推廣在地農產與食農體驗：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846958
-- 2026-11-14 彩繪葫蘆黑琵【王丁乙】藝術展、串珠黑面琵鷺【宋惠珠】藝術展及黑琵油畫展覽七股遊客中心開幕展出：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846962
-- 2026-11-14 公開招標公告[標案案號]115082 [標案名稱]佳里區下營里南26線道蒐集水路箱涵後續改善工程：https://www.tainan.gov.tw/News_Content2.aspx?n=4960&s=8844170
-- 2026-11-14 安定胡麻季地政問答送好禮 新化地政分享「府城南籍圈」查房價：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846961
-- 2026-11-14 臺南蘭代學院攜手二代傳承 打造在地產業接班生態系、邁向高值化轉型：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846960
-- 2026-11-14 高市消防鼎金分隊成功搶救2名OHCA患者 康復後重返正常生活：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=1BA826972855C891
-- 2026-11-14 台南中小學傳統藝術比賽新營登場 黃偉哲盼展現傳統藝術新活力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8846955
-- 2026-11-14 產業轉型結合TOD開發 高雄公辦都更6年引資2,800億 連4年助攻蟬聯全國招商王：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=43226DE9C80F29E7
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
