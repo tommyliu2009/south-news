@@ -4,11 +4,26 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-11-21（每日自動更新）
+- 更新：2026-11-22（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-21 「AI租稅智慧王」趣味闖關登場！120份好禮等您拿：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8847664
+- 2026-11-21 見證愛河河堤公園親水廊道煥然一新 陳其邁：打造全齡友善親水綠廊滿足社區需求：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=2A91C36FE59A8A3B
+- 2026-11-21 「點亮幸福」熱鬧登場！臺南財稅局宣導結合數位服務、公益與廉政：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848122
+- 2026-11-21 寶華大橋橋體順利合龍 饒慶鈴：打造縱谷安全回家路：https://www.taitung.gov.tw/News_Content.aspx?n=14600&sms=12652&s=150788
+- 2026-11-21 愛心守護 歷久彌新！臺南市表揚115年度績優交通導護志工與愛心服務站：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848120
+- 2026-11-21 優化友善平權 臺南原住民文物館全新亮相：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848117
+- 2026-11-21 首屆虎頭埤「玩埤派對」熱鬧開幕 黃偉哲邀民眾享受台南秋日風情：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848116
+- 2026-11-21 黃偉哲出席台南3校校慶運動會 肯定多元教育成果祝福學子快樂成長：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848112
+- 2026-11-21 臺南雙鴨萌力變商機 菜奇鴨、夜奇鴨打造臺南IP新經濟：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848111
+- 2026-11-21 【代發勞工局新聞稿】高雄市工會行善特攻隊義助弱勢256場次 陳市長嘉勉頒發感謝狀：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=CBD737368F05D9E2
+- 2026-11-21 南市教育局嚴查私幼疑似不當對待幼兒事件 全面清查監視器影像、違法零容忍：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848110
+- 2026-11-21 公告辦理「花蓮縣新休閒農業區啟動計畫」，請符合資格者，自115年11月 20日起至115年11月27日止提出申請：https://www.hl.gov.tw/News_Content.aspx?n=32860&s=234446
+- 2026-11-21 行政暨研考處-招標公告-屏東縣政府北棟車道保全亭新建統包工程：https://www.pthg.gov.tw/planra/News_Content.aspx?n=570364F965713798&sms=134B02281CC9C8E6&s=CD5B36AD66C4641A
+- 2026-11-21 行政暨研考處-招標公告-青葉部落文化健康站災後整修工程：https://www.pthg.gov.tw/planra/News_Content.aspx?n=570364F965713798&sms=134B02281CC9C8E6&s=D2B26373A8D599BD
+- 2026-11-21 Minutes of Tainan City Government’s 768th Municipal Administrative Meeting Mayor’s remarks 09/29/2026：https://www.tainan.gov.tw/news_content.aspx?n=1962&s=8840153
 - 2026-11-20 金門縣農業試驗所116年轉作冬季綠肥申報事項公告：https://ari.kinmen.gov.tw/News_Content.aspx?n=2FDEBE240FA2FAFC&sms=A2C62D68901B977C&s=3BA38EDE14CD0DE6
 - 2026-11-20 夜奇鴨快閃花園夜市 黃偉哲親發300張抵用券邀民眾逛夜市、抽大獎：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848098
 - 2026-11-20 臺南市政府觀光旅遊局低碳旅宿補助作業要點：https://law01.tainan.gov.tw/glrsnewsout/LawContent.aspx?id=GL002117
@@ -19,21 +34,6 @@
 - 2026-11-20 臺南科技產業專區開發案區段徵收內政部已核定 115年11月17日起公告30日 市府提醒所有權人留意申請期限保障權益：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8847439
 - 2026-11-20 第三屆臺灣咖啡分類分級（TCAGs）評鑑揭曉！ 臺南3家業者榮獲優選 展現精品咖啡實力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8847482
 - 2026-11-20 台南投入逾17億元改善126校推動通學步道 黃偉哲要求把關工程品質：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8847463
-- 2026-11-20 從古蹟走讀到AI永續！臺南3校榮獲教學卓越獎 8年累計28座金銀質獎：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848089
-- 2026-11-20 攜手高大！「德國4.0實境冒險」成果發表會今登場 青年分享國際見學經驗 跨界對話接軌在地產業：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=C1869FEEE0F66CB7
-- 2026-11-20 公告景觀設計職系「幫工程司」2職缺徵選簡章：https://pwbpo.kcg.gov.tw/News_Content.aspx?n=E906ACD8B11CE060&sms=FFACA121EF6915EE&s=6F06EF61B21DE7EC
-- 2026-11-20 讓科學原理飛上天！臺南手擲機競賽展現學生創意 未來將轉型無人機競賽：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8847579
-- 2026-11-20 落實虐童零容忍！南市辦理幼兒園正向管教研習 與近300位教保夥伴齊心守護幼兒安全：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8847589
-- 2026-11-20 超強聖嬰氣候持續，登革熱防疫不鬆懈！黃偉哲市長籲市民落實「巡、倒、清、刷」，一起打造無蚊家園守護健康！：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848060
-- 2026-11-20 陪伴失智家庭照顧者調適壓力，找回生活中的療癒時光：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848056
-- 2026-11-20 流感疫情重症風險仍在 南市籲高風險族群儘早接種疫苗：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848054
-- 2026-11-20 勞動部修正發布承攬管理檢查注意事項強化風險評估、施工協調及統合管理，落實源頭防災- 最新消息：https://ksepb.kcg.gov.tw/AuditAnnouncement/news?PageType=1&id=731fd650-db89-4a57-ae99-1dbe77abb658
-- 2026-11-20 職安署推動科技防災與創新工法從源頭降低營造施工風險- 最新消息：https://ksepb.kcg.gov.tw/AuditAnnouncement/news?PageType=1&id=8ff90e27-21d6-4d2d-a8b1-32a8702a2d37
-- 2026-11-20 鼓勵民間團體踴躍辦理職災預防及重建宣導，勞動部放寬補助規定- 最新消息：https://ksepb.kcg.gov.tw/AuditAnnouncement/news?PageType=1&id=a4ef717c-57ac-4221-9c2c-2abb311c6f37
-- 2026-11-20 人造石加工粉塵恐危害肺部健康，勞動部籲落實源頭防護預防矽肺症- 最新消息：https://ksepb.kcg.gov.tw/AuditAnnouncement/news?PageType=1&id=a6e82ebc-9dc2-4ed2-92dd-ea14f09fed2d
-- 2026-11-20 台南技職大聯盟串聯AMD等產學研資源 黃偉哲打造智慧製造人才培育新模式：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8847359
-- 2026-11-20 南市府11月20日成立產業金融創新平台 串聯六大聯盟及金融產業學研資源共創發展新局：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848029
-- 2026-11-20 農試所於11月7日辦理「黃金泡菜製作教學課程體驗活動」歡迎民眾報名：https://ari.kinmen.gov.tw/News_Content.aspx?n=2344E1241F12149B&sms=A2C62D68901B977C&s=EC218EB34E1B66DF
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
