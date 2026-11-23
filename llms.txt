@@ -4,36 +4,36 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-11-23（每日自動更新）
+- 更新：2026-11-24（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-24 紫色浪潮席捲港都！天團開唱掀夜經濟 粉絲搶吃「同款」 香腸阿嬤烤到凌晨三點：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=30BBA7C95CBE01A6
 - 2026-11-23 臺南市立游泳池感恩回饋！11月申辦計次卡快閃優惠加碼送1次、免費體適能公益課程同步登場：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8847186
 - 2026-11-23 面對失落不孤單，臺南市免費心理諮商陪伴自殺遺族走過傷痛：https://www.tainan.gov.tw/News_Content.aspx?n=13371&sms=9749&s=8845348
-- 2026-11-22 走進吉貝耍 探索西拉雅！臺南西拉雅族教育遊學中心揭牌 市長黃偉哲盼學子走讀部落 認識在地文化：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8847312
-- 2026-11-22 防範火警憾事重演 旗山消防隊攜手宣導義消深入狹小巷弄強化居家訪視暨防火宣導：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=9FE39BDFBA279791
-- 2026-11-22 因應毒駕釀災風險！大昌分隊辦理「毒駕衝撞機車待轉區」大傷事件演練 精實救災救護應變量能：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=3FB6E67214FD094A
-- 2026-11-22 台南文學雙獎揭曉 黃偉哲肯定跨世代創作能量、持續厚植文學之都底蘊：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848141
-- 2026-11-22 內政部宣導政治獻金法規定：https://kmtax.kinmen.gov.tw/News_Content.aspx?n=E9CD2F2C0C62A9CA&sms=A2C62D68901B977C&s=024359058FE75B2D
-- 2026-11-22 爬氣窗救童踏入社工路18載 臺南家防督導曾子豪榮獲第12屆「紫絲帶獎」：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848132
-- 2026-11-22 台關子嶺職安健走熱鬧登場 黃偉哲與勞工朋友健走迎健康、宣導職場安全：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848125
-- 2026-11-22 黃偉哲開箱朗萌綺盟水上氣偶 邀民眾體驗安平港灣萌力、夜間光影魅力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&sms=9748&s=8844059
-- 2026-11-22 財政部臺北國稅局推行「樂活在雲端之發票拍起來創意短影音 競賽」租稅宣導活動：https://kmtax.kinmen.gov.tw/News_Content.aspx?n=A75DEDDE0F3C8ABC&sms=A2C62D68901B977C&s=633F5A982B83CA59
-- 2026-11-22 Minutes of Tainan City Government’s 774th Municipal Administrative Meeting Mayor’s remarks 11/10/2026：https://www.tainan.gov.tw/news_content.aspx?n=1962&s=8847503
-- 2026-11-22 看動畫、學租稅、拿獎勵！金門校園租稅小達人活動開跑：https://kmtax.kinmen.gov.tw/News_Content.aspx?n=A75DEDDE0F3C8ABC&sms=A2C62D68901B977C&s=BA6F8A3DED8A5913
-- 2026-11-21 「AI租稅智慧王」趣味闖關登場！120份好禮等您拿：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8847664
-- 2026-11-21 見證愛河河堤公園親水廊道煥然一新 陳其邁：打造全齡友善親水綠廊滿足社區需求：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=2A91C36FE59A8A3B
-- 2026-11-21 「點亮幸福」熱鬧登場！臺南財稅局宣導結合數位服務、公益與廉政：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848122
-- 2026-11-21 寶華大橋橋體順利合龍 饒慶鈴：打造縱谷安全回家路：https://www.taitung.gov.tw/News_Content.aspx?n=14600&sms=12652&s=150788
-- 2026-11-21 愛心守護 歷久彌新！臺南市表揚115年度績優交通導護志工與愛心服務站：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848120
-- 2026-11-21 優化友善平權 臺南原住民文物館全新亮相：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848117
-- 2026-11-21 首屆虎頭埤「玩埤派對」熱鬧開幕 黃偉哲邀民眾享受台南秋日風情：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848116
-- 2026-11-21 黃偉哲出席台南3校校慶運動會 肯定多元教育成果祝福學子快樂成長：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848112
-- 2026-11-21 臺南雙鴨萌力變商機 菜奇鴨、夜奇鴨打造臺南IP新經濟：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848111
-- 2026-11-21 【代發勞工局新聞稿】高雄市工會行善特攻隊義助弱勢256場次 陳市長嘉勉頒發感謝狀：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=CBD737368F05D9E2
-- 2026-11-21 南市教育局嚴查私幼疑似不當對待幼兒事件 全面清查監視器影像、違法零容忍：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848110
-- 2026-11-21 公告辦理「花蓮縣新休閒農業區啟動計畫」，請符合資格者，自115年11月 20日起至115年11月27日止提出申請：https://www.hl.gov.tw/News_Content.aspx?n=32860&s=234446
+- 2026-11-23 投入6.3億打通仁武排水瓶頸 八涳橋改建今正式啟用 陳其邁：全面提升仁武防洪韌性與通行便利：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=960ED26BBC6D8079
+- 2026-11-23 高雄市登革熱本土確診案(第15、16、17案)緊急防治範圍公告：https://health.kcg.gov.tw/News_Content.aspx?n=51623F92649C1BE2&sms=F9373F0CFE2E3F24&s=76D6EE45C1CC2651
+- 2026-11-23 屏東海豐產業園區既有現耕業者移轉至替代場域之遷置委託技術服務：https://www.pthg.gov.tw/News_Content.aspx?n=A773ACB48CA2E5C3&s=0803C6DCFC8B29D4
+- 2026-11-23 花蓮縣府深化地方創生 助力瑞穗原生植物產業發展：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=234546
+- 2026-11-23 花蓮縣府深入新城老街 以故事佐餐推廣太魯閣風味：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=234547
+- 2026-11-23 瞄準全倒、挑戰佳績！115年臺南市市長盃保齡球錦標賽登場：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848348
+- 2026-11-23 南區大恩公園全新法式滾球場11月正式啟用！打造市民休閒運動新據點：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848346
+- 2026-11-23 決標公告[標案案號]115112[標案名稱]115年0625豪雨柳營區五軍營排水及太康排水災後復建工程等2件：https://www.tainan.gov.tw/News_Content2.aspx?n=4964&s=8848198
+- 2026-11-23 調味醬安全不馬虎 南市加強源頭稽查與產品抽驗：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848331
+- 2026-11-23 仁武八涳橋改建啟用 打通排水瓶頸、提升防洪韌性：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=D84B7F2FE40EE074
+- 2026-11-23 敬老愛心卡限本人使用！搭乘敬老愛心計程車切勿借卡給親友以免觸法：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=234530
+- 2026-11-23 市府表揚115年工業區優秀員工 肯定產業英雄為城市經濟注入堅實動能：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848311
+- 2026-11-23 高雄市鼓山區柴山大路、興國路與萬壽路，預定於115年11月26日至27日進行路面改善工程，敬請行經車輛提前改道並注意行車安全：https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&sms=19902EF36D6B551D&s=F7FF866B0F1492BC
+- 2026-11-23 面向未來的歷史遊樂場 岡山醒村× PLAY! PARK 國際合作：https://khvillages.kcg.gov.tw/StaticPage/exhibitionawakeG
+- 2026-11-23 臺南市政府榮獲內政部國土管理署114年度土地利用監測作業成果評鑑「模範獎－非都市土地組銀獎」 落實土地管理獲中央肯定：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848300
+- 2026-11-23 時代的迴音－《一把青》戲劇特展：https://khvillages.kcg.gov.tw/StaticPage/exhibitionawakeD
+- 2026-11-23 《聆聽醒光》一岡山醒村歷史地景與六種浪漫：https://khvillages.kcg.gov.tw/StaticPage/exhibitionawakeC
+- 2026-11-23 台南市表揚115年工業區優秀員工 黃偉哲肯定產業從業者卓越表現：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848297
+- 2026-11-23 臺南深度節能雙軌並進 服務業戶均用電下降、工業鍋爐全面脫煤展現減碳成果：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8845528
+- 2026-11-23 天團BTS 高雄巡演三場國外樂迷佔15% 盛讚「紫愛高雄」：94分鐘神級疏運與城市熱情成全球大型活動典範：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=5AD0E4CF585404C9
+- 2026-11-23 從「一校一科技」到親子科技共學！臺南AI機器人假日親子營 5梯次場場額滿：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848284
+- 2026-11-23 用電安全不可輕忽，施工找合格承裝業安心有保障：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848274
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
