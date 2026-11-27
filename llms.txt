@@ -4,36 +4,36 @@
 
 - 網址：https://web13.subsidyking.tw/
 - 主題：南部縣市政策與地方新聞
-- 更新：2026-11-26（每日自動更新）
+- 更新：2026-11-28（每日自動更新）
 - 資料來源：各機關官方網站與媒體原文，每則附原始出處連結
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-26 仁武廠回饋設施，115年12月25日(五)行憲紀念日休館，全館停止營運。：https://dwmp.kcg.gov.tw/News_Content.aspx?n=90F9C829676D983D&sms=4A78F49D80A37C0A&s=0EEAA071BA6BFC43
-- 2026-11-25 決標公告[標案案號]115082[標案名稱]佳里區下營里南26線道蒐集水路箱涵後續改善工程：https://www.tainan.gov.tw/News_Content2.aspx?n=4964&s=8848593
-- 2026-11-25 臺南推動汽機車產業AI跨域應用 協助傳統製造鏈結高科技供應鏈 聚焦智慧製造、資安防護及技術媒合 開拓產業升級新契機：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8846921
-- 2026-11-25 配合「115年地方公職人員選舉暨全國性公民投票」，中西區圖書館訂於115年11月28日(星期六)休館1日。：https://web.tainan.gov.tw/tnwcdo/News_Content.aspx?n=19944&sms=18797&s=8848823
-- 2026-11-25 機車無法發動 大武警提油應急：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150848
-- 2026-11-25 男子到關山訪友順道向警諮詢 關山警揭假發票中獎手法：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150849
-- 2026-11-25 安全觀念從小扎根 大武警走進新興國小：https://www.taitung.gov.tw/News_Content.aspx?n=13370&s=150847
-- 2026-11-25 臺南市115年廉政會報展現廉政治理成果 深化專業倫理、風險預防與跨域協力：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848833
-- 2026-11-25 公告修正「屏東縣獅子鄉重陽節敬老禮金發放自治條例」公告、令、修正總說明、修正條文對照表及修正後全文各1份：https://www.pthg.gov.tw/chaujou/News_Content.aspx?n=935E85B038A29A3C&s=AB83CF7855D0ECDA
-- 2026-11-25 守護生命再添生力軍 左營慈福宮捐贈仁武消防分隊救護車：https://fdkc.kcg.gov.tw/News_Content.aspx?n=EF5454228AD21A21&sms=6BCA88A6633BE86E&s=2DE8A41B644B8845
-- 2026-11-25 強化工業區防災韌性 南市府跨域聯防演練守護產業與市民安全：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848815
-- 2026-11-25 第四屆金牌農村臺南市初賽頒獎，左鎮區公舘社區、善化區溪美社區、官田區菱波渡頭休閒農業區榮獲臺南市金牌：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848809
-- 2026-11-25 比漫畫更魔幻 ！日本書店將1962年台南街景印上T恤：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848813
-- 2026-11-25 產官學攜手深耕偏鄉！元太科技率23家夥伴建置電子書行動圖書館 打造臺東孩子終身學習力：https://www.taitung.gov.tw/News_Content.aspx?n=13370&sms=12652&s=150837
-- 2026-11-25 崁頂鄉公所-最新消息-116年度補助「地方創生青年培力工作站」申請須知及說明會：https://www.pthg.gov.tw/TownKto/News_Content.aspx?n=FF5357F5BDA5E114&s=3058BF3BAAE66A80
-- 2026-11-25 維護公共安全 中西區「非常機車」火損建物今完成拆除：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848782
-- 2026-11-25 享鴨連續3年暖心傳愛 今年再度挹注新臺幣60萬元公益經費關懷臺南弱勢兒少 黃偉哲感謝企業暖心投：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848787
-- 2026-11-25 轉知衛生福利部「失智症防治照護政策綱領暨行動方案3.0」政策公告：https://hdao.kcg.gov.tw/News_Content.aspx?n=5415B45F83F58063&sms=6DBF452AEE6822B5&s=38DFF49E33F7F005
-- 2026-11-25 薪資保障有依據 婚假權益要知道！ 花蓮縣政府宣導勞動新制上路 雇主留意勿觸法：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=234643
-- 2026-11-25 區公所-新化區-國稅局「2027喜氣洋洋迎新春」日月曆兌換活動：https://web.tainan.gov.tw/sinhua/News_Content.aspx?n=5932&s=8848679
-- 2026-11-25 高市都發局楊徨仁榮獲115年廉潔楷模、廉潔自律樹典範：https://urban-web.kcg.gov.tw/KDA/web_page/KDAN030201.jsp?PK01=KDA070000001202611023
-- 2026-11-25 享鴨連3年投入台南公益 黃偉哲感謝企業關懷兒少回饋在地：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848752
-- 2026-11-25 從一校建設到區域共好！關廟國小中央廚房新建工程動土 提升關廟區學校午餐供餐量能：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848744
-- 2026-11-25 BTS巡演高雄三場 締造多項歷史第一！觀光產值10億高捷累計破百萬運量：https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=67AAD260A684CA84
-- 2026-11-25 臺南訂指引落實教師離線權 下班後非緊急訊息可等上班再回：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8848637
+- 2026-11-27 花蓮縣115年下半年志願服務概況調查：https://www.hl.gov.tw/News_Content.aspx?n=32728&s=234632
+- 2026-11-27 115年花蓮縣祥和計畫志願服務資訊整合系統教育訓練：https://www.hl.gov.tw/News_Content.aspx?n=32728&s=234730
+- 2026-11-27 客家委員會辦理「2027客家合唱比賽」及「現代阿卡貝拉表演賽」：https://culture.taitung.gov.tw/news/%E5%AE%A2%E5%AE%B6%E5%A7%94%E5%93%A1%E6%9C%83%E8%BE%A6%E7%90%86%E3%80%8C2027%E5%AE%A2%E5%AE%B6%E5%90%88%E5%94%B1%E6%AF%94%E8%B3%BD%E3%80%8D%E5%8F%8A%E3%80%8C%E7%8F%BE%E4%BB%A3%E9%98%BF%E5%8D%A1
+- 2026-11-27 善用公有土地、放大城市效益！台南公辦都更省200億元，打造社宅與公共設施共榮新生活：https://udweb.tainan.gov.tw/News_Content.aspx?n=17090&s=8848967
+- 2026-11-27 新竹市文化局受理「116年下半年表演藝術活動審查計畫」：https://culture.taitung.gov.tw/news/%E6%96%B0%E7%AB%B9%E5%B8%82%E6%96%87%E5%8C%96%E5%B1%80%E5%8F%97%E7%90%86%E3%80%8C116%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93%E6%B4%BB%E5%8B%95%E5%AF%A9%E6%9F%A5
+- 2026-11-27 永康中華路CF幹線工程通水 黃偉哲：有效降低積淹水風險：https://info.tainan.gov.tw/News_Content.aspx?n=25742&s=8849035
+- 2026-11-27 東山土地解套再突破！約1.5公頃公設用地解編案通過內政部都委會審議：https://info.tainan.gov.tw/News_Content.aspx?n=25742&s=8849070
+- 2026-11-27 臺南首座全齡共融社宅！宜居小東公宅結合醫療專業與智慧照顧，打造長照3.0示範據點：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8849086
+- 2026-11-27 AI科技結合低碳飲食 「AI低碳餐盤大作戰」引領青年實踐永續淨零新生活：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8849083
+- 2026-11-27 選後市容不打烊！呼籲候選人選完隔日即拆 環保局選後三日啟動巡檢、違者依法開罰：https://www.hl.gov.tw/News_Content.aspx?n=32725&sms=25832&s=234743
+- 2026-11-27 2026臺南聖誕燈節「雙生聖誕樹」璀璨登場 滿穗新芽點亮城市共生共榮之光：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8849066
+- 2026-11-27 臺南深耕雙特教育！8校攜手精準點亮校園「待綻微光」：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8849060
+- 2026-11-27 公告：燕南書院11/28暫停開放一日：https://cabkc.kinmen.gov.tw/information?uid=88&pid=7974
+- 2026-11-27 台南智慧號誌擴及永安長和、裕農路廊 黃偉哲盼民眾通勤更順暢：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8849052
+- 2026-11-27 陳忞昕青奧桌球奪金摘銅 黃偉哲頒120萬元獎勵選手及教練：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8849050
+- 2026-11-27 小東公宅日照中心116年啟用 黃偉哲攜手成大醫院完善長照服務：https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8849023
+- 2026-11-27 研考會獲志願服務評鑑績優局處肯定 8位志工榮獲中央及市府獎勵：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848889
+- 2026-11-27 錯過告五人北高雙蛋沒關係「2027台東跨年-東漂去旅行」演唱會「告五人」不趕場還獨家獻唱50分鐘：https://tour.taitung.gov.tw/zh-tw/news/details/6550
+- 2026-11-27 116年度屏東縣緊急救援通報系統暨愛心手環(鍊)服務計畫：https://www.pthg.gov.tw/News_Content.aspx?n=A773ACB48CA2E5C3&s=AE6294E1E88369D9
+- 2026-11-27 屏東復興公園板彈球場劃設匹克球場工程：https://www.pthg.gov.tw/News_Content.aspx?n=A773ACB48CA2E5C3&s=9A7F03B7132FF1E7
+- 2026-11-27 臺南市政府原住民族事務委員會-【轉知】教育部116年「青年百億海外圓夢基金計畫」第1梯次報名，歡迎青年踴躍報名：https://web.tainan.gov.tw/Nation/News_Content.aspx?n=934&sms=9717&s=8848980
+- 2026-11-27 從稻米產地到鐵道風景玉溪米巨型彩繪穀倉換新裝花蓮縣政府攜手玉溪地區農會改善農業設施打造花東縱谷農業新地標：https://www.hl.gov.tw/News_Content.aspx?n=32725&s=234723
+- 2026-11-27 南市社會局攜手凱基人壽續推微型保險 首度納入新住民 擴大弱勢守護網：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848971
+- 2026-11-27 臺南之光！陳忞昕青年奧運桌球女單摘金 黃偉哲市長接見表揚：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848966
+- 2026-11-27 新營運動新地標亮相 全民運動館竣工試運轉：https://www.tainan.gov.tw/News_Content.aspx?n=13371&s=8848960
 
 ## 相關網站
 - 補助王：https://www.subsidyking.tw/
